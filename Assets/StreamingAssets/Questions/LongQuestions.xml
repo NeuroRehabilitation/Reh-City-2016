@@ -1,0 +1,783 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>	
+	<Q00>
+		<Q0T00>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, lave regularmente as mãos com sabonete.</questionPT>
+			<questionEN></questionEN>
+		</Q0T00>
+		<Q1T00>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, quando tossir ou espirrar, coloque o antebraço à frente da boca.</questionPT>
+			<questionEN></questionEN>
+		</Q1T00>
+		<Q2T00>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, evite o contacto próximo com pessoas doentes.</questionPT>
+			<questionEN></questionEN>
+		</Q2T00>
+		<Q3T00>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, diminua a frequência de recintos públicos fechados.</questionPT>
+			<questionEN></questionEN>
+		</Q3T00>
+		<Q4T00>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, aumente o consumo de vitamina C.</questionPT>
+			<questionEN></questionEN>
+		</Q4T00>
+		<Q5T00>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, reutilize os seus lenços de papel.</questionPT>
+			<questionEN></questionEN>
+		</Q5T00>
+		<Q6T00>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, evite ventilar a sua casa.</questionPT>
+			<questionEN></questionEN>
+		</Q6T00>
+		<Q7T00>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, não faça a vacinação anual.</questionPT>
+			<questionEN></questionEN>
+		</Q7T00>
+		<Q8T00>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, conviva com pessoas doentes para aumentar a sua resistência ao vírus.</questionPT>
+			<questionEN></questionEN>
+		</Q8T00>
+		<Q9T00>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, aumente o consumo de leite.</questionPT>
+			<questionEN></questionEN>
+		</Q9T00>
+	</Q00>
+	<Q01>
+		<Q0T01>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, tire as fichas de todas as tomadas.</questionPT>
+			<questionEN></questionEN>
+		</Q0T01>
+		<Q1T01>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, deixe a válvula de gás da cozinha bloqueada.</questionPT>
+			<questionEN></questionEN>
+		</Q1T01>
+		<Q2T01>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, forneça o seu número de telefone e as chaves de sua casa com alguém de confiança.</questionPT>
+			<questionEN></questionEN>
+		</Q2T01>
+		<Q3T01>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, retire todo o lixo de casa para não permitir o acúmulo de bactérias.</questionPT>
+			<questionEN></questionEN>
+		</Q3T01>
+		<Q4T01>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, verifique se todas as portas e janelas estão bem fechadas.</questionPT>
+			<questionEN></questionEN>
+		</Q4T01>
+		<Q5T01>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, não avise os vizinhos e amigos próximos.</questionPT>
+			<questionEN></questionEN>
+		</Q5T01>
+		<Q6T01>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, deixe os seus eletrodomésticos ligados à tomada.</questionPT>
+			<questionEN></questionEN>
+		</Q6T01>
+		<Q7T01>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, não deixe a sua chave de casa com ninguém.</questionPT>
+			<questionEN></questionEN>
+		</Q7T01>
+		<Q8T01>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, deixe uma luz acesa para que os outros pensem que está em casa.</questionPT>
+			<questionEN></questionEN>
+		</Q8T01>
+		<Q9T01>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, não forneça o seu número de telefone a ninguém.</questionPT>
+			<questionEN></questionEN>
+		</Q9T01>
+	</Q01>
+	<Q02>
+		<Q0T02>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Uma alimentação equilibrada inclui alimentos de todos os grupos, para fornecer todos os nutrientes necessários. </questionPT>
+			<questionEN></questionEN>
+		</Q0T02>
+		<Q1T02>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Não existe um alimento único que seja capaz de fornecer todos os nutrientes necessários.</questionPT>
+			<questionEN></questionEN>
+		</Q1T02>
+		<Q2T02>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Uma alimentação variada inclui alimentos de todos os grupos alimentares.</questionPT>
+			<questionEN></questionEN>
+		</Q2T02>
+		<Q3T02>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A seleção cuidada de alimentos ajuda no controlo de calorias, gorduras saturadas, colesterol, sal e açúcar.</questionPT>
+			<questionEN></questionEN>
+		</Q3T02>
+		<Q4T02>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Os três conceitos principais de uma alimentação equilibrada são: equilíbrio, variedade e moderação.</questionPT>
+			<questionEN></questionEN>
+		</Q4T02>
+		<Q5T02>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Não devemos controlar o consumo de gorduras saturadas, colesterol, sal e açúcar.</questionPT>
+			<questionEN></questionEN>
+		</Q5T02>
+		<Q6T02>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A seleção cuidada de alimentos não ajuda no controlo de calorias.</questionPT>
+			<questionEN></questionEN>
+		</Q6T02>
+		<Q7T02>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Existem alguns alimentos que são capazes de fornecer todos os nutrientes necessários.</questionPT>
+			<questionEN></questionEN>
+		</Q7T02>
+		<Q8T02>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Uma alimentação variada inclui alimentos de pelo menos três grupos alimentares.</questionPT>
+			<questionEN></questionEN>
+		</Q8T02>
+		<Q9T02>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Os três conceitos principais de uma alimentação equilibrada são: simplicidade, variedade e abundância.</questionPT>
+			<questionEN></questionEN>
+		</Q9T02>
+	</Q02>
+	<Q03>
+		<Q0T03>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A prática regular de atividade física, melhora a função cardiovascular e respiratória.</questionPT>
+			<questionEN></questionEN>
+		</Q0T03>
+		<Q1T03>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A prática regular de atividade física, diminui a incidência de cancro do cólon e diabetes tipo II.</questionPT>
+			<questionEN></questionEN>
+		</Q1T03>
+		<Q2T03>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A prática regular de atividade física, diminui a massa gorda e aumenta a massa muscular.</questionPT>
+			<questionEN></questionEN>
+		</Q2T03>
+		<Q3T03>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A prática regular de atividade física, aumenta a massa óssea e previne a sua perda.</questionPT>
+			<questionEN></questionEN>
+		</Q3T03>
+		<Q4T03>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A prática regular de atividade física, melhora a função imunitária.</questionPT>
+			<questionEN></questionEN>
+		</Q4T03>
+		<Q5T03>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A prática regular de atividade física, acelera certos processos do envelhecimento.</questionPT>
+			<questionEN></questionEN>
+		</Q5T03>
+		<Q6T03>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A prática regular de atividade física, diminui a sensação de bem-estar e a auto-estima.</questionPT>
+			<questionEN></questionEN>
+		</Q6T03>
+		<Q7T03>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A prática regular de atividade física, pode agravar estados de depressão e ansiedade.</questionPT>
+			<questionEN></questionEN>
+		</Q7T03>
+		<Q8T03>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A prática regular de atividade física, diminui a massa óssea.</questionPT>
+			<questionEN></questionEN>
+		</Q8T03>
+		<Q9T03>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A prática regular de atividade física, diminui a função cardiovascular e respiratória.</questionPT>
+			<questionEN></questionEN>
+		</Q9T03>
+	</Q03>
+	<Q04>
+		<Q0T04>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as cáries, escove os dentes duas vezes por dia.</questionPT>
+			<questionEN></questionEN>
+		</Q0T04>
+		<Q1T04>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as cáries, utilize uma pasta de dentes ou colutório que contenha flúor.</questionPT>
+			<questionEN></questionEN>
+		</Q1T04>
+		<Q2T04>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as cáries, substitua a sua escova de dentes de três em três meses ou quando ela estiver gasta.</questionPT>
+			<questionEN></questionEN>
+		</Q2T04>
+		<Q3T04>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as cáries, limpe os espaços interdentários todos os dias com um fio dentário.</questionPT>
+			<questionEN></questionEN>
+		</Q3T04>
+		<Q4T04>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as cáries, siga um regime alimentar saudável.</questionPT>
+			<questionEN></questionEN>
+		</Q4T04>
+		<Q5T04>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as cáries, escove os dentes uma vez por dia.</questionPT>
+			<questionEN></questionEN>
+		</Q5T04>
+		<Q6T04>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as cáries, substitua a sua escova de dentes anualmente.</questionPT>
+			<questionEN></questionEN>
+		</Q6T04>
+		<Q7T04>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as cáries, beba refrigerantes e coma doces.</questionPT>
+			<questionEN></questionEN>
+		</Q7T04>
+		<Q8T04>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as cáries, marque consultas de dois em dois anos no dentista.</questionPT>
+			<questionEN></questionEN>
+		</Q8T04>
+		<Q9T04>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as cáries, evite utilizar fio dentário.</questionPT>
+			<questionEN></questionEN>
+		</Q9T04>
+	</Q04>
+	<Q05>
+		<Q0T05>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Níveis baixos de vitamina B12 estão associados a uma maior probabilidade de desenvolvimento de problemas cognitivos.</questionPT>
+			<questionEN></questionEN>
+		</Q0T05>
+		<Q1T05>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A capacidade do nosso organismo absorver vitamina B12 dos alimentos diminui na vida adulta.</questionPT>
+			<questionEN></questionEN>
+		</Q1T05>
+		<Q2T05>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A vitamina B12 previne doenças neurológicas, como a doença de alzheimer.</questionPT>
+			<questionEN></questionEN>
+		</Q2T05>
+		<Q3T05>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A vitamina B12 está presente em alimentos como peixes, ovos, lacticínios, grãos e cereais.</questionPT>
+			<questionEN></questionEN>
+		</Q3T05>
+		<Q4T05>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A dose diária recomendada de vitamina B12 é de 2,0 mg para adultos.</questionPT>
+			<questionEN></questionEN>
+		</Q4T05>
+		<Q5T05>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Níveis baixos de vitamina B12 estão associados a uma maior probabilidade de desenvolvimento de problemas cardíacos.</questionPT>
+			<questionEN></questionEN>
+		</Q5T05>
+		<Q6T05>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A capacidade do nosso organismo absorver vitamina B12 dos alimentos aumenta na vida adulta.</questionPT>
+			<questionEN></questionEN>
+		</Q6T05>
+		<Q7T05>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A vitamina B12 está presente em alimentos como peixes, ovos, lacticínios e vegetais.</questionPT>
+			<questionEN></questionEN>
+		</Q7T05>
+		<Q8T05>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A dose diária recomendada de vitamina B12 é de 2,1 mg para adultos.</questionPT>
+			<questionEN></questionEN>
+		</Q8T05>
+		<Q9T05>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A vitamina B12 contribui para doenças neurológicas, como a doença de alzheimer.</questionPT>
+			<questionEN></questionEN>
+		</Q9T05>
+	</Q05>
+	<Q06>
+		<Q0T06>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para a confecção do Bolo de Chocolate na Caneca é necesário 2 colheres de sopa de óleo.</questionPT>
+			<questionEN></questionEN>
+		</Q0T06>
+		<Q1T06>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>O Bolo de Chocolate na Caneca leva 2 colheres de sopa de leite.</questionPT>
+			<questionEN></questionEN>
+		</Q1T06>
+		<Q2T06>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>O tempo de cozedura do Bolo de Chocolate na Caneca é 3 minutos no micro-ondas.</questionPT>
+			<questionEN></questionEN>
+		</Q2T06>
+		<Q3T06>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A confeção do Bolo de Chocolate na Caneca começa por juntar a farinha, com o açúcar e o chocolate em pó.</questionPT>
+			<questionEN></questionEN>
+		</Q3T06>
+		<Q4T06>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A potência do micro-ondas deverá ser 1000 watts para cozer o Bolo de Chocolate na Caneca.</questionPT>
+			<questionEN></questionEN>
+		</Q4T06>
+		<Q5T06>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para a confecção do Bolo de Chocolate na Caneca é necessário 2 colheres de sobremesa de óleo.</questionPT>
+			<questionEN></questionEN>
+		</Q5T06>
+		<Q6T06>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>O Bolo de Chocolate na Caneca não leva qualquer tipo de lacticínio.</questionPT>
+			<questionEN></questionEN>
+		</Q6T06>
+		<Q7T06>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>O tempo de cozedura do Bolo de Chocolate na Caneca é 3 minutos no forno.</questionPT>
+			<questionEN></questionEN>
+		</Q7T06>
+		<Q8T06>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A confeção do Bolo de Chocolate na Caneca começa por o leite, o óleo e o chocolate em pó.</questionPT>
+			<questionEN></questionEN>
+		</Q8T06>
+		<Q9T06>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A potência do micro-ondas deverá ser 100 watts para cozer o Bolo de Chocolate na Caneca.</questionPT>
+			<questionEN></questionEN>
+		</Q9T06>
+	</Q06>
+	<Q07>
+		<Q0T07>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Na receita de Arroz em 3,5 minutos, a medida de água é 2.5 vezes a medida de arroz.</questionPT>
+			<questionEN></questionEN>
+		</Q0T07>
+		<Q1T07>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Na receita de Arroz em 3,5 minutos, a cebola é picada.</questionPT>
+			<questionEN></questionEN>
+		</Q1T07>
+		<Q2T07>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Na receita de Arroz em 3,5 minutos, o arroz deve fritar por 2 minutos.</questionPT>
+			<questionEN></questionEN>
+		</Q2T07>
+		<Q3T07>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Na receita de Arroz em 3,5 minutos, o arroz deverá cozer durante 3 minutos.</questionPT>
+			<questionEN></questionEN>
+		</Q3T07>
+		<Q4T07>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A receita de Arroz em 3,5 minutos leva 1 dente de alho.</questionPT>
+			<questionEN></questionEN>
+		</Q4T07>
+		<Q5T07>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Na receita de Arroz em 3,5 minutos, a medida de água é 4.5 vezes a medida de arroz.</questionPT>
+			<questionEN></questionEN>
+		</Q5T07>
+		<Q6T07>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Na receita de Arroz em 3,5 minutos, a cebola é inteira.</questionPT>
+			<questionEN></questionEN>
+		</Q6T07>
+		<Q7T07>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Na receita de Arroz em 3,5 minutos, o arroz deve fritar por 1 minuto.</questionPT>
+			<questionEN></questionEN>
+		</Q7T07>
+		<Q8T07>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Na receita de Arroz em 3,5 minutos, o arroz deverá cozer durante 5 minutos.</questionPT>
+			<questionEN></questionEN>
+		</Q8T07>
+		<Q9T07>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A receita de Arroz em 3,5 minutos leva 2 dente de alho.</questionPT>
+			<questionEN></questionEN>
+		</Q9T07>
+	</Q07>
+	<Q08>
+		<Q0T08>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para fazer Puré de batata caseiro, são necessárias 7 batatas médias.</questionPT>
+			<questionEN></questionEN>
+		</Q0T08>
+		<Q1T08>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A receita de  Puré de batata caseiro leva uma pitada de pimenta branca.</questionPT>
+			<questionEN></questionEN>
+		</Q1T08>
+		<Q2T08>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Na receita de  Puré de batata caseiro as batatas são cozidas sem a casca, entre 10 a 15 minutos.</questionPT>
+			<questionEN></questionEN>
+		</Q2T08>
+		<Q3T08>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A receita de  Puré de batata caseiro leva uma caneca de leite meio-gordo quente.</questionPT>
+			<questionEN></questionEN>
+		</Q3T08>
+		<Q4T08>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A receita de  Puré de batata caseiro leva uma colher de sobremesa de manteiga.</questionPT>
+			<questionEN></questionEN>
+		</Q4T08>
+		<Q5T08>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para fazer Puré de batata caseiro, são necessárias 7 batatas grandes.</questionPT>
+			<questionEN></questionEN>
+		</Q5T08>
+		<Q6T08>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A receita de  Puré de batata caseiro leva uma pitada de pimenta preta.</questionPT>
+			<questionEN></questionEN>
+		</Q6T08>
+		<Q7T08>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Na receita de  Puré de batata caseiro as batatas são cozidas com casca, entre 10 a 15 minutos.</questionPT>
+			<questionEN></questionEN>
+		</Q7T08>
+		<Q8T08>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A receita de  Puré de batata caseiro leva uma caneca de leite magro quente.</questionPT>
+			<questionEN></questionEN>
+		</Q8T08>
+		<Q9T08>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A receita de  Puré de batata caseiro leva uma colher de sopa de manteiga.</questionPT>
+			<questionEN></questionEN>
+		</Q9T08>
+	</Q08>
+	<Q09>
+		<Q0T09>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A laranja combate a prisão de ventre.</questionPT>
+			<questionEN></questionEN>
+		</Q0T09>
+		<Q1T09>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A laranja aumenta os glóbulos brancos do sangue.</questionPT>
+			<questionEN></questionEN>
+		</Q1T09>
+		<Q2T09>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A laranja melhora a circulação sanguínea, inibindo a formação de coágulos em excesso no sangue.</questionPT>
+			<questionEN></questionEN>
+		</Q2T09>
+		<Q3T09>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A laranja previne o aparecimento de crises alérgicas, como rinite e asma.</questionPT>
+			<questionEN></questionEN>
+		</Q3T09>
+		<Q4T09>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A laranja dificulta o desenvolvimento de vírus no organismo.</questionPT>
+			<questionEN></questionEN>
+		</Q4T09>
+		<Q5T09>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A laranja contribui para a prisão de ventre.</questionPT>
+			<questionEN></questionEN>
+		</Q5T09>
+		<Q6T09>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A laranja aumenta os glóbulos vermelhos do sangue.</questionPT>
+			<questionEN></questionEN>
+		</Q6T09>
+		<Q7T09>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A laranja melhora a circulação sanguínea, inibindo a formação de coágulos em excesso no sangue.</questionPT>
+			<questionEN></questionEN>
+		</Q7T09>
+		<Q8T09>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A laranja previne o aparecimento de crises alérgicas, como gripe e asma.</questionPT>
+			<questionEN></questionEN>
+		</Q8T09>
+		<Q9T09>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A laranja facilita o desenvolvimento de vírus no organismo.</questionPT>
+			<questionEN></questionEN>
+		</Q9T09>
+	</Q09>
+	<Q10>
+		<Q0T10>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para cultivar ervas de chá é importante um local com sol e sombra e um solo fértil e húmido.</questionPT>
+			<questionEN></questionEN>
+		</Q0T10>
+		<Q1T10>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>É possível plantar as ervas de chá no solo do quintal ou em vasos.</questionPT>
+			<questionEN></questionEN>
+		</Q1T10>
+		<Q2T10>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>As plantas para fazer chá devem receber bastante sol no período da manhã e sombra durante a tarde.</questionPT>
+			<questionEN></questionEN>
+		</Q2T10>
+		<Q3T10>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>O jardim onde estão cultivadas as plantas para fazer chá deverá ser adubado uma vez por ano.</questionPT>
+			<questionEN></questionEN>
+		</Q3T10>
+		<Q4T10>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A recolha das folhas da planta para fazer chá devem ser recolhidas aproximadamente cinco meses depois de terem sido plantadas. </questionPT>
+			<questionEN></questionEN>
+		</Q4T10>
+		<Q5T10>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para cultivar ervas de chá é importante um local com sol e sombra e um solo fértil e seco.</questionPT>
+			<questionEN></questionEN>
+		</Q5T10>
+		<Q6T10>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>É possível plantar as ervas de chá apenas no solo do quintal.</questionPT>
+			<questionEN></questionEN>
+		</Q6T10>
+		<Q7T10>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>As plantas para fazer chá devem estar na sombra durante a manhã e receber bastante sol no período da tarde.</questionPT>
+			<questionEN></questionEN>
+		</Q7T10>
+		<Q8T10>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>O jardim onde estão cultivadas as plantas para fazer chá deverá ser adubado duas vezes por ano.</questionPT>
+			<questionEN></questionEN>
+		</Q8T10>
+		<Q9T10>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A recolha das folhas da planta para fazer chá devem ser recolhidas aproximadamente quatro meses depois de terem sido plantadas.</questionPT>
+			<questionEN></questionEN>
+		</Q9T10>
+	</Q10>
+	<Q11>
+		<Q0T11>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>As intolerâncias alimentares são uma reacção adversa do organismo a alimentos causadas por mecanismos não imunológicos.</questionPT>
+			<questionEN></questionEN>
+		</Q0T11>
+		<Q1T11>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Os sintomas das intolerâncias alimentares podem incluir distúrbios gastrointestinais, cutâneos e respiratórios.</questionPT>
+			<questionEN></questionEN>
+		</Q1T11>
+		<Q2T11>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>As intolerâncias alimentares podem surgir por defeitos raros congénitos, formas generalizadas secundárias a doenças ou de forma geneticamente adquirida.</questionPT>
+			<questionEN></questionEN>
+		</Q2T11>
+		<Q3T11>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>As intolerâncias alimentares e as alergias alimentares são processos diferentes.</questionPT>
+			<questionEN></questionEN>
+		</Q3T11>
+		<Q4T11>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Às intolerâncias alimentares está associada uma deficiência ou diminuição da actividade enzimática, que impede a sua metabolização eficaz.</questionPT>
+			<questionEN></questionEN>
+		</Q4T11>
+		<Q5T11>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>As intolerâncias alimentares são uma reacção inversa do organismo a alimentos causadas por mecanismos imunológicos.</questionPT>
+			<questionEN></questionEN>
+		</Q5T11>
+		<Q6T11>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Os sintomas das intolerâncias alimentares podem incluir distúrbios gastrointestinais, cardíacos e físicos.</questionPT>
+			<questionEN></questionEN>
+		</Q6T11>
+		<Q7T11>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>As intolerâncias alimentares podem surgir por defeitos raros não congénitos, formas generalizadas secundárias a doenças ou de forma geneticamente adquirida.</questionPT>
+			<questionEN></questionEN>
+		</Q7T11>
+		<Q8T11>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>As intolerâncias alimentares e as alergias alimentares são processos iguais.</questionPT>
+			<questionEN></questionEN>
+		</Q8T11>
+		<Q9T11>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Às intolerâncias alimentares está associada uma deficiência ou aumento da actividade enzimática, que impede a sua metabolização eficaz.</questionPT>
+			<questionEN></questionEN>
+		</Q9T11>
+	</Q11>
+	<Q12>
+		<Q0T12>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Antes de começar a limpeza de um sofá, é necessário retirar o excesso de sujidade com o auxílio de um aspirador.</questionPT>
+			<questionEN></questionEN>
+		</Q0T12>
+		<Q1T12>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para preparar a primeira mistura caseira de limpeza de sofás é necessário sabão líquido de coco e água.</questionPT>
+			<questionEN></questionEN>
+		</Q1T12>
+		<Q2T12>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para a primeira parte do processo de limpeza de um sofá, é necessária uma escova.</questionPT>
+			<questionEN></questionEN>
+		</Q2T12>
+		<Q3T12>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para a segunda mistura caseira de limpeza de sofás é necessário amaciador para roupas, água e álcool.</questionPT>
+			<questionEN></questionEN>
+		</Q3T12>
+		<Q4T12>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>O último passo do processo de limpeza de um sofá consiste em passar um pano limpo e seco por todo o móvel.</questionPT>
+			<questionEN></questionEN>
+		</Q4T12>
+		<Q5T12>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Antes de começar a limpeza de um sofá, é necessário retirar o excesso de sujidade com o auxílio de uma vassoura.</questionPT>
+			<questionEN></questionEN>
+		</Q5T12>
+		<Q6T12>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para a primeira mistura caseira de limpeza de sofás é necessário sabão líquido de aloe vera e água.</questionPT>
+			<questionEN></questionEN>
+		</Q6T12>
+		<Q7T12>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para a primeira parte do processo de limpeza de um sofá, é necessário uma escova de dentes.</questionPT>
+			<questionEN></questionEN>
+		</Q7T12>
+		<Q8T12>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para a segunda mistura caseira de limpeza de sofás é necessário detergente para roupas, água e álcool.</questionPT>
+			<questionEN></questionEN>
+		</Q8T12>
+		<Q9T12>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>O último passo do processo de limpeza de um sofá consiste em passar um pano limpo e húmido por todo o móvel.</questionPT>
+			<questionEN></questionEN>
+		</Q9T12>
+	</Q12>
+	<Q13>
+		<Q0T13>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para fazer detergente ecológico, é necessário um balde com 5 litros de água.</questionPT>
+			<questionEN></questionEN>
+		</Q0T13>
+		<Q1T13>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para fazer detergente ecológico, é utilizado apenas o sumo dos limões.</questionPT>
+			<questionEN></questionEN>
+		</Q1T13>
+		<Q2T13>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Na receita de detergente ecológico, é aconselhada a utilização de amoníaco biodegradável.</questionPT>
+			<questionEN></questionEN>
+		</Q2T13>
+		<Q3T13>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>É necessário cuidado no manuseamento do amoníaco, evitar o contacto deste com a pele.</questionPT>
+			<questionEN></questionEN>
+		</Q3T13>
+		<Q4T13>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para a receita de detergente ecológico é necessária uma barra de sabão de coco neutro.</questionPT>
+			<questionEN></questionEN>
+		</Q4T13>
+		<Q5T13>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para fazer detergente ecológico, é necessário um balde com 7 litros de água.</questionPT>
+			<questionEN></questionEN>
+		</Q5T13>
+		<Q6T13>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para fazer detergente ecológico, são utilizados os limões inteiros.</questionPT>
+			<questionEN></questionEN>
+		</Q6T13>
+		<Q7T13>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Na receita de detergente ecológico, não é aconselhada a utilização de amoníaco biodegradável.  </questionPT>
+			<questionEN></questionEN>
+		</Q7T13>
+		<Q8T13>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Não é necessário cuidado no manuseamento do amoníaco.</questionPT>
+			<questionEN></questionEN>
+		</Q8T13>
+		<Q9T13>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para a receita de detergente ecológico é necessária uma barra e meia de sabão de coco neutro.</questionPT>
+			<questionEN></questionEN>
+		</Q9T13>
+	</Q13>
+	<Q14>
+		<Q0T14>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A quantidade de lactose que o organismo consegue metabolizar é cerca de 12g, quantidade encontrada em 240 ml de leite.</questionPT>
+			<questionEN></questionEN>
+		</Q0T14>
+		<Q1T14>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Alguns dos sintomas da intolerância à lactose são dores abdominais, flatulência, náuseas e diarreia ácida e abundante.</questionPT>
+			<questionEN></questionEN>
+		</Q1T14>
+		<Q2T14>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>É possivel substituir a ingestão de leite e seus derivados por leite sem lactose e por bebidas e produtos à base de soja.</questionPT>
+			<questionEN></questionEN>
+		</Q2T14>
+		<Q3T14>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Estima-se que cerca de 70% dos adultos do mundo sejam incapazes de digerir a lactose.</questionPT>
+			<questionEN></questionEN>
+		</Q3T14>
+		<Q4T14>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A maioria das pessoas intolerantes à lactose é capaz de digerir o leite apenas em quantidades pequenas e moderadas.</questionPT>
+			<questionEN></questionEN>
+		</Q4T14>
+		<Q5T14>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A quantidade de lactose que o organismo consegue metabolizar é cerca de 14g, quantidade encontrada em 250 ml de leite.</questionPT>
+			<questionEN></questionEN>
+		</Q5T14>
+		<Q6T14>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Alguns dos sintomas da intolerância à lactose são dores abdominais, flatulência, náuseas e prisão de ventre.</questionPT>
+			<questionEN></questionEN>
+		</Q6T14>
+		<Q7T14>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Não é aconselhado substituir a ingestão de leite e seus derivados por leite sem lactose e por bebidas e produtos à base de soja.</questionPT>
+			<questionEN></questionEN>
+		</Q7T14>
+		<Q8T14>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Estima-se que cerca de 60% dos adultos do mundo sejam incapazes de digerir a lactose.</questionPT>
+			<questionEN></questionEN>
+		</Q8T14>
+		<Q9T14>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A maioria das pessoas intolerantes à lactose não é capaz de digerir o leite em quantidades pequenas e moderadas.</questionPT>
+			<questionEN></questionEN>
+		</Q9T14>
+	</Q14>
+</Questions>

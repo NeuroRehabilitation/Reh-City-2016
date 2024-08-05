@@ -1,0 +1,84 @@
+fileFormatVersion: 2
+guid: 92437f9807f2cb446aa3425e9196de4a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: arch20_070
+    100002: arch20_071
+    100004: arch20_072
+    100006: arch20_073
+    100008: //RootNode
+    100010: Group10
+    400000: arch20_070
+    400002: arch20_071
+    400004: arch20_072
+    400006: arch20_073
+    400008: //RootNode
+    400010: Group10
+    2300000: arch20_070
+    2300002: arch20_071
+    2300004: arch20_072
+    2300006: arch20_073
+    3300000: arch20_070
+    3300002: arch20_071
+    3300004: arch20_072
+    3300006: arch20_073
+    4300000: arch20_071
+    4300002: arch20_070
+    4300004: arch20_072
+    4300006: arch20_073
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

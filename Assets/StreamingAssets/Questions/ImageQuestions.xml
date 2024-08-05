@@ -1,0 +1,943 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+	<Q00>
+		<Q0I00>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Estavam sentadas na mesa cinco pessoas.</questionPT>
+			<questionEN></questionEN>
+		</Q0I00>
+		<Q1I00>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A família estava feliz.</questionPT>
+			<questionEN></questionEN>
+		</Q1I00>
+		<Q2I00>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A camisola da mãe era cor-de-rosa.</questionPT>
+			<questionEN></questionEN>
+		</Q2I00>
+		<Q3I00>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A toalha da mesa era branca.</questionPT>
+			<questionEN></questionEN>
+		</Q3I00>
+		<Q4I00>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Estavam à mesa três crianças. </questionPT>
+			<questionEN></questionEN>
+		</Q4I00>
+		<Q5I00>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O pai tinha bigode.</questionPT>
+			<questionEN></questionEN>
+		</Q5I00>
+		<Q6I00>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O pai era careca</questionPT>
+			<questionEN></questionEN>
+		</Q6I00>
+		<Q7I00>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A refeição não incluia vegetais.</questionPT>
+			<questionEN></questionEN>
+		</Q7I00>
+		<Q8I00>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A menina tinha cabelo comprido. </questionPT>
+			<questionEN></questionEN>
+		</Q8I00>
+	</Q00>
+	<Q01>
+		<Q0I01>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A imagem era de um corredor de hospital.</questionPT>
+			<questionEN></questionEN>
+		</Q0I01>
+		<Q1I01>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O carro de compras tinha quatro rodas.</questionPT>
+			<questionEN></questionEN>
+		</Q1I01>
+		<Q2I01>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O carro de compras era verde.</questionPT>
+			<questionEN></questionEN>
+		</Q2I01>
+		<Q3I01>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O carro de compras estava vazio.</questionPT>
+			<questionEN></questionEN>
+		</Q3I01>
+		<Q4I01>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Tinha dois ananases no carro de compras</questionPT>
+			<questionEN></questionEN>
+		</Q4I01>
+		<Q5I01>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O chão do supermercado era azul. </questionPT>
+			<questionEN></questionEN>
+		</Q5I01>
+		<Q6I01>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>As prateleiras estavam cheias.</questionPT>
+			<questionEN></questionEN>
+		</Q6I01>
+		<Q7I01>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Era a secção das frutas e legumes.</questionPT>
+			<questionEN></questionEN>
+		</Q7I01>
+		<Q8I01>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O carro de compras estava seguro por alguém.</questionPT>
+			<questionEN></questionEN>
+		</Q8I01>
+	</Q01>
+	<Q02>
+		<Q0I02>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Estavam duas crianças na imagem.</questionPT>
+			<questionEN></questionEN>
+		</Q0I02>
+		<Q1I02>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>As crianças estavam a ler um livro.</questionPT>
+			<questionEN></questionEN>
+		</Q1I02>
+		<Q2I02>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A camisola do menino era vermelha.</questionPT>
+			<questionEN></questionEN>
+		</Q2I02>
+		<Q3I02>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Ambas as crianças estavam a usar óculos.</questionPT>
+			<questionEN></questionEN>
+		</Q3I02>
+		<Q4I02>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O cabelo das crianças era castanho escuro.</questionPT>
+			<questionEN></questionEN>
+		</Q4I02>
+		<Q5I02>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O teclado do computador era todo preto.</questionPT>
+			<questionEN></questionEN>
+		</Q5I02>
+		<Q6I02>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>As crianças estavam a chorar.</questionPT>
+			<questionEN></questionEN>
+		</Q6I02>
+		<Q7I02>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>As crianças estavam numa biblioteca.</questionPT>
+			<questionEN></questionEN>
+		</Q7I02>
+		<Q8I02>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>As crianças estavam a ser ajudadas por um professor.</questionPT>
+			<questionEN></questionEN>
+		</Q8I02>
+	</Q02>
+	<Q03>
+		<Q0I03>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>As cores das tendas eram amarelo e vermelho.</questionPT>
+			<questionEN></questionEN>
+		</Q0I03>
+		<Q1I03>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estavam na imagem três tendas.</questionPT>
+			<questionEN></questionEN>
+		</Q1I03>
+		<Q2I03>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O acampamento era na praia.</questionPT>
+			<questionEN></questionEN>
+		</Q2I03>
+		<Q3I03>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estava uma mulher junto às tendas.</questionPT>
+			<questionEN></questionEN>
+		</Q3I03>
+		<Q4I03>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estavam duas pessoas na imagem.</questionPT>
+			<questionEN></questionEN>
+		</Q4I03>
+		<Q5I03>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>As tendas eram do mesmo tamanho.</questionPT>
+			<questionEN></questionEN>
+		</Q5I03>
+		<Q6I03>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Tinha neve nas montanhas.</questionPT>
+			<questionEN></questionEN>
+		</Q6I03>
+		<Q7I03>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>As árvores estavam verdes.</questionPT>
+			<questionEN></questionEN>
+		</Q7I03>
+		<Q8I03>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Existia uma fogueira junto às tendas.</questionPT>
+			<questionEN></questionEN>
+		</Q8I03>
+	</Q03>
+	<Q04>
+		<Q0I04>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Estava um homem no multibanco.</questionPT>
+			<questionEN></questionEN>
+		</Q0I04>
+		<Q1I04>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estavam duas pessoas no multibanco.</questionPT>
+			<questionEN></questionEN>
+		</Q1I04>
+		<Q2I04>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O multibanco era vermelho.</questionPT>
+			<questionEN></questionEN>
+		</Q2I04>
+		<Q3I04>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O homem estava a usar calções.</questionPT>
+			<questionEN></questionEN>
+		</Q3I04>
+		<Q4I04>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O homem estava a usar uma camisola cinzenta.</questionPT>
+			<questionEN></questionEN>
+		</Q4I04>
+		<Q5I04>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O ecrã do multibanco estava azul.</questionPT>
+			<questionEN></questionEN>
+		</Q5I04>
+		<Q6I04>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O homem era louro.</questionPT>
+			<questionEN></questionEN>
+		</Q6I04>
+		<Q7I04>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O caixote do lixo estava cheio.</questionPT>
+			<questionEN></questionEN>
+		</Q7I04>
+		<Q8I04>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O homem estava a assaltar o banco.</questionPT>
+			<questionEN></questionEN>
+		</Q8I04>
+	</Q04>
+	<Q05>
+		<Q0I05>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Na imagem estava um golfinho e uma senhora.</questionPT>
+			<questionEN></questionEN>
+		</Q0I05>
+		<Q1I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Na imagem estavam três golfinhos.</questionPT>
+			<questionEN></questionEN>
+		</Q1I05>
+		<Q2I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Ambos os golfinhos estavam dentro de água.</questionPT>
+			<questionEN></questionEN>
+		</Q2I05>
+		<Q3I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A treinadora estava a alimentar os golfinhos. </questionPT>
+			<questionEN></questionEN>
+		</Q3I05>
+		<Q4I05>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Os golfinhos estavam numa piscina.</questionPT>
+			<questionEN></questionEN>
+		</Q4I05>
+		<Q5I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O tratador era um homem.</questionPT>
+			<questionEN></questionEN>
+		</Q5I05>
+		<Q6I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O fato da treinadora era verde.</questionPT>
+			<questionEN></questionEN>
+		</Q6I05>
+		<Q7I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A treinadora estava a usar óculos de sol. </questionPT>
+			<questionEN></questionEN>
+		</Q7I05>
+		<Q8I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Os golfinhos pareciam estar a sofrer.</questionPT>
+			<questionEN></questionEN>
+		</Q8I05>
+	</Q05>
+	<Q06>
+		<Q0I06>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Na imagem estavam duas crianças.</questionPT>
+			<questionEN></questionEN>
+		</Q0I06>
+		<Q1I06>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Na imagem estava um cão.</questionPT>
+			<questionEN></questionEN>
+		</Q1I06>
+		<Q2I06>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Era uma família.</questionPT>
+			<questionEN></questionEN>
+		</Q2I06>
+		<Q3I06>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O casal tinha com eles um menino.</questionPT>
+			<questionEN></questionEN>
+		</Q3I06>
+		<Q4I06>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A areia era preta.</questionPT>
+			<questionEN></questionEN>
+		</Q4I06>
+		<Q5I06>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O pêlo do cão era branco e comprido.</questionPT>
+			<questionEN></questionEN>
+		</Q5I06>
+		<Q6I06>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Estava a chover.</questionPT>
+			<questionEN></questionEN>
+		</Q6I06>
+		<Q7I06>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Estavam todos felizes.</questionPT>
+			<questionEN></questionEN>
+		</Q7I06>
+		<Q8I06>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A praia estava cheia de gente.</questionPT>
+			<questionEN></questionEN>
+		</Q8I06>
+	</Q06>
+	<Q07>
+		<Q0I07>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Na imagem estavam uma mãe e uma filha.</questionPT>
+			<questionEN></questionEN>
+		</Q0I07>
+		<Q1I07>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Ambas estavam a segurar uma revista.</questionPT>
+			<questionEN></questionEN>
+		</Q1I07>
+		<Q2I07>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>As flores da imagem eram rosas.</questionPT>
+			<questionEN></questionEN>
+		</Q2I07>
+		<Q3I07>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Elas pareciam felizes.</questionPT>
+			<questionEN></questionEN>
+		</Q3I07>
+		<Q4I07>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O cabelo da menina era encaracolado.</questionPT>
+			<questionEN></questionEN>
+		</Q4I07>
+		<Q5I07>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O cabelo da mulher era preto.</questionPT>
+			<questionEN></questionEN>
+		</Q5I07>
+		<Q6I07>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Os vasos eram cor-de-rosa.</questionPT>
+			<questionEN></questionEN>
+		</Q6I07>
+		<Q7I07>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A mulher estava a usar um colar.</questionPT>
+			<questionEN></questionEN>
+		</Q7I07>
+		<Q8I07>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Elas estavam dentro de casa.</questionPT>
+			<questionEN></questionEN>
+		</Q8I07>
+	</Q07>
+	<Q08>
+		<Q0I08>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A parede era branca.</questionPT>
+			<questionEN></questionEN>
+		</Q0I08>
+		<Q1I08>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A massa era esparguete e macarrão.</questionPT>
+			<questionEN></questionEN>
+		</Q1I08>
+		<Q2I08>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A carne já estava cozinhada.</questionPT>
+			<questionEN></questionEN>
+		</Q2I08>
+		<Q3I08>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O vaso era preto.</questionPT>
+			<questionEN></questionEN>
+		</Q3I08>
+		<Q4I08>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Os tomates estavam verdes.</questionPT>
+			<questionEN></questionEN>
+		</Q4I08>
+		<Q5I08>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Em cima do balcão estava um garfo.</questionPT>
+			<questionEN></questionEN>
+		</Q5I08>
+		<Q6I08>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A refeição já estava pronta.</questionPT>
+			<questionEN></questionEN>
+		</Q6I08>
+		<Q7I08>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Íam ser cozinhadas 2 malaguetas.</questionPT>
+			<questionEN></questionEN>
+		</Q7I08>
+		<Q8I08>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A massa ía ser temperada com orégãos.</questionPT>
+			<questionEN></questionEN>
+		</Q8I08>
+	</Q08>
+	<Q09>
+		<Q0I09>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estavam na pista quatro aviões.</questionPT>
+			<questionEN></questionEN>
+		</Q0I09>
+		<Q1I09>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Um dos aviões era da companhia portuguesa TAP.</questionPT>
+			<questionEN></questionEN>
+		</Q1I09>
+		<Q2I09>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Ambos os aviões eram brancos.</questionPT>
+			<questionEN></questionEN>
+		</Q2I09>
+		<Q3I09>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estava a chover.</questionPT>
+			<questionEN></questionEN>
+		</Q3I09>
+		<Q4I09>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>As pessoas estavam a caminhar para o avião.</questionPT>
+			<questionEN></questionEN>
+		</Q4I09>
+		<Q5I09>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Um dos aviões estava a aterrar.</questionPT>
+			<questionEN></questionEN>
+		</Q5I09>
+		<Q6I09>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estava um autocarro a transportar as pessoas.</questionPT>
+			<questionEN></questionEN>
+		</Q6I09>
+		<Q7I09>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Era visível diversas casas ao fundo.</questionPT>
+			<questionEN></questionEN>
+		</Q7I09>
+		<Q8I09>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Um dos aviões estava a descolar.</questionPT>
+			<questionEN></questionEN>
+		</Q8I09>
+	</Q09>
+	<Q10>
+		<Q0I10>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Na imagem estavam três pessoas com camisola às riscas.</questionPT>
+			<questionEN></questionEN>
+		</Q0I10>
+		<Q1I10>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Na imagem estavam duas crianças.</questionPT>
+			<questionEN></questionEN>
+		</Q1I10>
+		<Q2I10>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A bola era azul.</questionPT>
+			<questionEN></questionEN>
+		</Q2I10>
+		<Q3I10>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Estava a chover.</questionPT>
+			<questionEN></questionEN>
+		</Q3I10>
+		<Q4I10>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A senhora estava a usar calças brancas.</questionPT>
+			<questionEN></questionEN>
+		</Q4I10>
+		<Q5I10>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A relva estava aparada.</questionPT>
+			<questionEN></questionEN>
+		</Q5I10>
+		<Q6I10>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A senhora estava a usar batom vermelho.</questionPT>
+			<questionEN></questionEN>
+		</Q6I10>
+		<Q7I10>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Estavam todos tristes.</questionPT>
+			<questionEN></questionEN>
+		</Q7I10>
+		<Q8I10>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A menina estava com o cabelo apanhado.</questionPT>
+			<questionEN></questionEN>
+		</Q8I10>
+	</Q10>
+	<Q11>
+		<Q0I11>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Uma das funcionárias estava a tomar café.</questionPT>
+			<questionEN></questionEN>
+		</Q0I11>
+		<Q1I11>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Os post-its que estavam em cima da mesa eram coloridos.</questionPT>
+			<questionEN></questionEN>
+		</Q1I11>
+		<Q2I11>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Na imagem estavam cinco senhoras.</questionPT>
+			<questionEN></questionEN>
+		</Q2I11>
+		<Q3I11>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A gravata do senhor que estava ao centro era vermelha.</questionPT>
+			<questionEN></questionEN>
+		</Q3I11>
+		<Q4I11>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O computador era preto. </questionPT>
+			<questionEN></questionEN>
+		</Q4I11>
+		<Q5I11>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O copo que estava em cima da mesa tinha sumo.</questionPT>
+			<questionEN></questionEN>
+		</Q5I11>
+		<Q6I11>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Uma das senhoras tinha o cabelo escuro.</questionPT>
+			<questionEN></questionEN>
+		</Q6I11>
+		<Q7I11>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Os funcionários estavam tristes.</questionPT>
+			<questionEN></questionEN>
+		</Q7I11>
+		<Q8I11>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O senhor de camisa cinzenta estava a usar óculos.</questionPT>
+			<questionEN></questionEN>
+		</Q8I11>
+	</Q11>
+	<Q12>
+		<Q0I12>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Estavam duas cenouras sobre a mesa.</questionPT>
+			<questionEN></questionEN>
+		</Q0I12>
+		<Q1I12>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Havia um pimentão amarelo e um vermelho.</questionPT>
+			<questionEN></questionEN>
+		</Q1I12>
+		<Q2I12>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Na mesa estavam apenas três tigelas.</questionPT>
+			<questionEN></questionEN>
+		</Q2I12>
+		<Q3I12>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Havia uma garrafa sobre a mesa.</questionPT>
+			<questionEN></questionEN>
+		</Q3I12>
+		<Q4I12>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Estavam cinco pães dispostos sobre a mesa.</questionPT>
+			<questionEN></questionEN>
+		</Q4I12>
+		<Q5I12>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Íam ser utilizados cogumelos enlatados na receita.</questionPT>
+			<questionEN></questionEN>
+		</Q5I12>
+		<Q6I12>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Não havia fruta sobre a bancada.</questionPT>
+			<questionEN></questionEN>
+		</Q6I12>
+		<Q7I12>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O conteúdo do copo era verde.</questionPT>
+			<questionEN></questionEN>
+		</Q7I12>
+		<Q8I12>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Íam ser usados dois tipos diferentes de tomates na receita.</questionPT>
+			<questionEN></questionEN>
+		</Q8I12>
+	</Q12>
+	<Q13>
+		<Q0I13>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Estavam três elefantes na imagem.</questionPT>
+			<questionEN></questionEN>
+		</Q0I13>
+		<Q1I13>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Não havia pessoas a fotografar os animais.</questionPT>
+			<questionEN></questionEN>
+		</Q1I13>
+		<Q2I13>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Os elefantes estavam fora do lago.</questionPT>
+			<questionEN></questionEN>
+		</Q2I13>
+		<Q3I13>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Os tratadores estavam em cima dos elefantes.</questionPT>
+			<questionEN></questionEN>
+		</Q3I13>
+		<Q4I13>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A cor do uniforme dos funcionários do zoo era azul.</questionPT>
+			<questionEN></questionEN>
+		</Q4I13>
+		<Q5I13>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Os funcionários não estavam a usar chapéu.</questionPT>
+			<questionEN></questionEN>
+		</Q5I13>
+		<Q6I13>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Os elefantes estavam a ser alimentados.</questionPT>
+			<questionEN></questionEN>
+		</Q6I13>
+		<Q7I13>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A camisola do senhor que estava de costas era vermelha.</questionPT>
+			<questionEN></questionEN>
+		</Q7I13>
+		<Q8I13>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Estavam algumas crianças no público.</questionPT>
+			<questionEN></questionEN>
+		</Q8I13>
+	</Q13>
+	<Q14>
+		<Q0I14>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Estavam duas pessoas a remar.</questionPT>
+			<questionEN></questionEN>
+		</Q0I14>
+		<Q1I14>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A cor da canoa era azul.</questionPT>
+			<questionEN></questionEN>
+		</Q1I14>
+		<Q2I14>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O lenço da senhora era branco.</questionPT>
+			<questionEN></questionEN>
+		</Q2I14>
+		<Q3I14>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O senhor estava vestido de branco.</questionPT>
+			<questionEN></questionEN>
+		</Q3I14>
+		<Q4I14>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estavam a transportar animais no barco.</questionPT>
+			<questionEN></questionEN>
+		</Q4I14>
+		<Q5I14>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A água estava cheia de lixo.</questionPT>
+			<questionEN></questionEN>
+		</Q5I14>
+		<Q6I14>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Havia uma criança no barco. </questionPT>
+			<questionEN></questionEN>
+		</Q6I14>
+		<Q7I14>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Ambos os passageiros estavam de costas.</questionPT>
+			<questionEN></questionEN>
+		</Q7I14>
+		<Q8I14>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Ao fundo havia palmeiras.</questionPT>
+			<questionEN></questionEN>
+		</Q8I14>
+	</Q14>
+	<Q15>
+		<Q0I15>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A gravata do médico era vermelha.</questionPT>
+			<questionEN></questionEN>
+		</Q0I15>
+		<Q1I15>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O paciente tinha barba.</questionPT>
+			<questionEN></questionEN>
+		</Q1I15>
+		<Q2I15>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A camisola do paciente era preta.</questionPT>
+			<questionEN></questionEN>
+		</Q2I15>
+		<Q3I15>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O paciente parecia estar em sofrimento.</questionPT>
+			<questionEN></questionEN>
+		</Q3I15>
+		<Q4I15>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O médico estava a medir a temperatura.</questionPT>
+			<questionEN></questionEN>
+		</Q4I15>
+		<Q5I15>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A bata do médico era amarela.</questionPT>
+			<questionEN></questionEN>
+		</Q5I15>
+		<Q6I15>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O paciente usava óculos de vista.</questionPT>
+			<questionEN></questionEN>
+		</Q6I15>
+		<Q7I15>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O médico parecia estar sentado.</questionPT>
+			<questionEN></questionEN>
+		</Q7I15>
+		<Q8I15>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O médico era loiro.</questionPT>
+			<questionEN></questionEN>
+		</Q8I15>
+	</Q15>
+	<Q16>
+		<Q0I16>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O carteiro usava relógio.</questionPT>
+			<questionEN></questionEN>
+		</Q0I16>
+		<Q1I16>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A cor da farda era preta.</questionPT>
+			<questionEN></questionEN>
+		</Q1I16>
+		<Q2I16>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>A caixa que estava na bicicleta era vermelha.</questionPT>
+			<questionEN></questionEN>
+		</Q2I16>
+		<Q3I16>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O carteiro não estava a utilizar capacete.</questionPT>
+			<questionEN></questionEN>
+		</Q3I16>
+		<Q4I16>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A cor da carta que tinha na mão era verde.</questionPT>
+			<questionEN></questionEN>
+		</Q4I16>
+		<Q5I16>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>A bicicleta estava no passeio.</questionPT>
+			<questionEN></questionEN>
+		</Q5I16>
+		<Q6I16>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O carteiro estava a usar uma bolsa.</questionPT>
+			<questionEN></questionEN>
+		</Q6I16>
+		<Q7I16>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Havia carros estacionados.</questionPT>
+			<questionEN></questionEN>
+		</Q7I16>
+		<Q8I16>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Não havia arbustos na imagem.</questionPT>
+			<questionEN></questionEN>
+		</Q8I16>
+	</Q16>
+	<Q17>
+		<Q0I17>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O regador era de metal.</questionPT>
+			<questionEN></questionEN>
+		</Q0I17>
+		<Q1I17>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>As luvas eram castanhas.</questionPT>
+			<questionEN></questionEN>
+		</Q1I17>
+		<Q2I17>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>No cesto havia flores vermelhas.</questionPT>
+			<questionEN></questionEN>
+		</Q2I17>
+		<Q3I17>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O cabo da pá era verde.</questionPT>
+			<questionEN></questionEN>
+		</Q3I17>
+		<Q4I17>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Havia vasos de diferentes tamanhos.</questionPT>
+			<questionEN></questionEN>
+		</Q4I17>
+		<Q5I17>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Os vasos eram de cerâmica.</questionPT>
+			<questionEN></questionEN>
+		</Q5I17>
+		<Q6I17>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O chapéu era de palha.</questionPT>
+			<questionEN></questionEN>
+		</Q6I17>
+		<Q7I17>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A fita do chapéu era azul.</questionPT>
+			<questionEN></questionEN>
+		</Q7I17>
+		<Q8I17>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Havia flores brancas.</questionPT>
+			<questionEN></questionEN>
+		</Q8I17>
+	</Q17>
+	<Q18>
+		<Q0I18>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O  capacete era amarelo.</questionPT>
+			<questionEN></questionEN>
+		</Q0I18>
+		<Q1I18>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O senhor estava a usar luvas.</questionPT>
+			<questionEN></questionEN>
+		</Q1I18>
+		<Q2I18>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O macacão do senhor era vermelho.</questionPT>
+			<questionEN></questionEN>
+		</Q2I18>
+		<Q3I18>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O senhor tinha barba.</questionPT>
+			<questionEN></questionEN>
+		</Q3I18>
+		<Q4I18>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O macacão não estava sujo com tinta.</questionPT>
+			<questionEN></questionEN>
+		</Q4I18>
+		<Q5I18>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O senhor parecia estar concentrado. </questionPT>
+			<questionEN></questionEN>
+		</Q5I18>
+		<Q6I18>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A parede era vermelha.</questionPT>
+			<questionEN></questionEN>
+		</Q6I18>
+		<Q7I18>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A parede estava a ser pintada de branca.</questionPT>
+			<questionEN></questionEN>
+		</Q7I18>
+		<Q8I18>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>A armação de ferro onde o senhor estava a trabalhar era amarela.</questionPT>
+			<questionEN></questionEN>
+		</Q8I18>
+	</Q18>
+	<Q19>
+		<Q0I19>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Havia uma parede pintada de amarelo.</questionPT>
+			<questionEN></questionEN>
+		</Q0I19>
+		<Q1I19>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A cor da camisola da professora era branca.</questionPT>
+			<questionEN></questionEN>
+		</Q1I19>
+		<Q2I19>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Uma das meninas estava a usar calções amarelos.</questionPT>
+			<questionEN></questionEN>
+		</Q2I19>
+		<Q3I19>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>As crianças pareciam tristes.</questionPT>
+			<questionEN></questionEN>
+		</Q3I19>
+		<Q4I19>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A corda que estava a ser usada era verde.</questionPT>
+			<questionEN></questionEN>
+		</Q4I19>
+		<Q5I19>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Existiam cinco árvores no pátio.</questionPT>
+			<questionEN></questionEN>
+		</Q5I19>
+		<Q6I19>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Era possível visualizar prédios ao fundo.</questionPT>
+			<questionEN></questionEN>
+		</Q6I19>
+		<Q7I19>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A professora estava a usar calças.</questionPT>
+			<questionEN></questionEN>
+		</Q7I19>
+		<Q8I19>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Havia crianças descalças.</questionPT>
+			<questionEN></questionEN>
+		</Q8I19>
+	</Q19>
+</Questions>

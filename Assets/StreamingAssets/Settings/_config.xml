@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	<General>
+		<Language>RC_PT</Language>
+		<Session>15</Session>
+		<RehaTaskExtraTime>120</RehaTaskExtraTime>
+		<RehaTaskSelectionTime>5</RehaTaskSelectionTime>
+		<RehaTaskTargetTime>50</RehaTaskTargetTime>
+	</General>
+</Settings>

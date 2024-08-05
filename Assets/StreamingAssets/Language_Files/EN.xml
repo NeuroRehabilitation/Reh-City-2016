@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language>
+	<MainMenu>
+		<Name>Enter or select your name:</Name>
+		<Hand>Select Left or Right Hand</Hand>
+		<Play>Play</Play>
+		<Categories>Categories</Categories>
+		<Instructions>Instructions</Instructions>
+		<Levels>Levels</Levels>
+		<Quit>Quit</Quit>
+		<Welcome>Welcome </Welcome>
+		<HandWarning>Please select the hand you want to use!</HandWarning>
+		<NameWarning>Please enter user ID!</NameWarning>
+		<Practice>Practice</Practice>
+		<Memory>Memory</Memory>
+		<Calibration>Calibration</Calibration>
+		<Emotional>Emotional Rate</Emotional>
+		<Task>Attention and Memory Task</Task>
+		<Attention>Attention</Attention>
+		<Selection>Levels Selection</Selection>
+		<Info>Leave empty if is the First session</Info>
+		<Loading>Loading...</Loading>
+		<Options>Options</Options>
+		<Controls>Controls</Controls>
+		<Id>User ID</Id>
+		<Difficulty>Difficulty</Difficulty>
+		<Language>Language</Language>
+		<Support>Support</Support>
+		<Signs>City Signs</Signs>
+		<Labels>Items Labels</Labels>
+		<Minimap>Mini map</Minimap>
+		<Arrow>Navigation Arrow</Arrow>
+		<Objective>Objective</Objective>
+		<VSpatial>Visuospatial</VSpatial>
+		<Naming>Naming</Naming>
+		<Abstraction>Abstraction</Abstraction>
+		<DRecall>Delayed Recall</DRecall>
+		<Orientation>Orientation</Orientation>
+		<EFunctions>Ex. Functions</EFunctions>
+		<Idiom>Idiom</Idiom>
+		<Edu>Years education</Edu>
+		<Moca>MoCA Profile</Moca>
+		<Models>Models Profile</Models>
+	</MainMenu>
+	<Misc>
+		<MainMenu>Main Menu</MainMenu>
+		<pressKey>Press Continue</pressKey>
+		<SessionEnd>End of Session</SessionEnd>
+		<Score>Score</Score>
+		<PlayAgain>Play Again!</PlayAgain>
+    <Yes>True</Yes>
+    <No>False</No>
+    <Next>Next</Next>
+    <Previous>Previous</Previous>
+    <Finish>Finish</Finish>
+	</Misc>
+	<MainGUI>
+		<Timer>Timer</Timer>
+		<Remaining>Images to find:</Remaining>
+		<Pause>Press "Space" to pause game</Pause>
+		<Unpause>Press "Space" to unpause game</Unpause>
+	</MainGUI>
+	<LevelChange>
+		<Level>Level </Level>
+		<Completed> Completed with </Completed>
+		<Points> Points </Points>
+		<Congrats>Very good!</Congrats>
+		<Accumulated>Accumulated Points: </Accumulated>
+		<AllLevels>You Completed all Levels!</AllLevels>
+		<Quit>Quit</Quit>
+		<Continue>Continue</Continue>
+		<Session>The Session is Completed!</Session>
+		<Rate>Please rate from 1 to 9</Rate>
+		<Left>Place your hand on the left</Left>
+		<Right>Place your hand on the right</Right>
+		<GetReady>Get ready for new Level</GetReady>
+	</LevelChange>
+	<Calibration>
+		<Network>Network</Network>
+		<Filtering>Filtering</Filtering>
+		<Devices>Devices</Devices>
+		<Port>Port</Port>
+		<Start>start</Start>
+		<Stop>Stop</Stop>
+		<Cal>calibrating...</Cal>
+		<Local>Local IP Adress: </Local>
+		<Scale>Scale: </Scale>
+		<Filtered>Filtered: </Filtered>
+		<Copy>Copy to clipboard</Copy>
+		<Close>Close</Close>
+		<CalibDone>Calibration for this user was already done today. Press Enter to recalibrate or Esc to skip.</CalibDone>
+	</Calibration>
+</Language>

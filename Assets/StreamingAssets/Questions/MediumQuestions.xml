@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+	<Q00>
+		<Q0T00>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>A melhor forma de se evitar a dengue é combater a acumulação de àguas.</questionPT>
+			<questionEN>The best way to prevent dengue is to combat the accumulation of waters.</questionEN>
+		</Q0T00>
+		<Q1T00>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Para prevenir o dengue, é importante não acumular água em latas, embalagens, copos plásticos e tampinhas de refrigerantes.</questionPT>
+			<questionEN>To prevent dengue, it is important not to accumulate water in tins, containers, plastic cups and bottle caps of soft drinks.</questionEN>
+		</Q1T00>
+		<Q2T00>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Para prevenir o dengue, é importante não acumular água em pneus velhos, vasos de plantas, garrafas, tambores e lixeiras.</questionPT>
+			<questionEN>To prevent dengue, it is important not to accumulate water in old car tires, flower pots, bottles, drums and bins.</questionEN>
+		</Q2T00>
+		<Q3T00>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>As zonas secas são propícias para a criação do mosquito transmissor do dengue.</questionPT>
+			<questionEN>The dry areas are conducive to the creation of the mosquito that transmits dengue.</questionEN>
+		</Q3T00>
+		<Q4T00>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Não é possível prevenir o dengue.</questionPT>
+			<questionEN>You cannot prevent dengue.</questionEN>
+		</Q4T00>
+		<Q5T00>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>O dengue é transmitido através de uma mosca.</questionPT>
+			<questionEN>Dengue is transmitted through a fly.</questionEN>
+		</Q5T00>
+	</Q00>
+	<Q01>
+		<Q0T01>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>O selo postal é um veículo de enorme poder cultural e pedagógico.</questionPT>
+			<questionEN>The postage stamp is a huge vehicle of cultural and educational power.</questionEN>
+		</Q0T01>
+		<Q1T01>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>O selo é um excelente meio de divulgação.</questionPT>
+			<questionEN>The stamp is an excellent means of divulgation.</questionEN>
+		</Q1T01>
+		<Q2T01>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>O selo chega a um incontável número de pessoas de todas as classes sociais, de todos os países.</questionPT>
+			<questionEN>The stamp comes to a countless number of people of all social classes, of all countries.</questionEN>
+		</Q2T01>
+		<Q3T01>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>A utilização do selo não tem qualquer impacto na sociedade.</questionPT>
+			<questionEN>The use of the stamp does not have any impact on society.</questionEN>
+		</Q3T01>
+		<Q4T01>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>O selo postal é responsável por conflitos entre vários países.</questionPT>
+			<questionEN>The postage stamp is responsible for conflicts between various countries.</questionEN>
+		</Q4T01>
+		<Q5T01>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>O selo postal é apenas utilizado pelas classes sociais mais altas.</questionPT>
+			<questionEN>The postage stamp is used only by the higher social classes.</questionEN>
+		</Q5T01>
+	</Q01>
+	<Q02>
+		<Q0T02>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>A Idade Moderna foi a época da globalização.</questionPT>
+			<questionEN>The modern age was the era of globalization.</questionEN>
+		</Q0T02>
+		<Q1T02>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Na Idade Moderna, os nobres renovaram o visual com o uso da renda e do cetim.</questionPT>
+			<questionEN>In the modern age, the noble renew the look with the use of income and satin.</questionEN>
+		</Q1T02>
+		<Q2T02>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Na Idade Moderna estavam em voga tecidos como o linho, a lã e o algodão.</questionPT>
+			<questionEN>In the modern age were in vogue fabrics such as linen, wool and cotton.</questionEN>
+		</Q2T02>
+		<Q3T02>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Na Idade Moderna deixou-se de usar máquinas de costura.</questionPT>
+			<questionEN>The use of sewing machines was ceased in modern age.</questionEN>
+		</Q3T02>
+		<Q4T02>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Na Idade Moderna Vasco da Gama fez a sua viagem ao Brasil.</questionPT>
+			<questionEN>In modern age Vasco da Gama made his trip to Brazil.</questionEN>
+		</Q4T02>
+		<Q5T02>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Na Idade Moderna estavam em voga tecidos como o poliéster, caxemira e viscose.</questionPT>
+			<questionEN></questionEN>
+		</Q5T02>
+	</Q02>
+	<Q03>
+		<Q0T03>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Não devemos colocar o frigorífico junto a uma fonte de calor ou num sítio com exposição solar.</questionPT>
+			<questionEN></questionEN>
+		</Q0T03>
+		<Q1T03>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Devemos regular o termóstato do frigorífico entre os 4 e os 7 graus.</questionPT>
+			<questionEN></questionEN>
+		</Q1T03>
+		<Q2T03>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>O gelo aumenta o consumo energético do frigorífico. </questionPT>
+			<questionEN></questionEN>
+		</Q2T03>
+		<Q3T03>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Não podemos fazer nada para reduzir o consumo energético do frigorífico.</questionPT>
+			<questionEN></questionEN>
+		</Q3T03>
+		<Q4T03>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Devemos regular o termóstato do frigorífico entre os 5 e os 9 graus.</questionPT>
+			<questionEN></questionEN>
+		</Q4T03>
+		<Q5T03>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>O gelo não interfere no consumo energético do frigorífico.</questionPT>
+			<questionEN></questionEN>
+		</Q5T03>
+	</Q03>
+	<Q04>
+		<Q0T04>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Os fornos recentes consomem bem menos do que os antigos.</questionPT>
+			<questionEN></questionEN>
+		</Q0T04>
+		<Q1T04>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Devemos evitar o pré-aquecimento do forno para gastar menos energia.</questionPT>
+			<questionEN></questionEN>
+		</Q1T04>
+		<Q2T04>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Na função de grelhar a resistência dos fornos consome até duas vezes mais.</questionPT>
+			<questionEN></questionEN>
+		</Q2T04>
+		<Q3T04>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Os fornos recentes consomem bem mais do que os antigos</questionPT>
+			<questionEN></questionEN>
+		</Q3T04>
+		<Q4T04>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>É benéfico utilizar a função de pré-aquecimento do forno pois ajuda a poupar energia.</questionPT>
+			<questionEN></questionEN>
+		</Q4T04>
+		<Q5T04>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Na função de grelhar a resistência dos fornos consome menos.</questionPT>
+			<questionEN></questionEN>
+		</Q5T04>
+	</Q04>
+	<Q05>
+		<Q0T05>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Se não utilizar as panelas apropriadas, o consumo do seu fogão eléctrico pode aumentar até 50%.</questionPT>
+			<questionEN></questionEN>
+		</Q0T05>
+		<Q1T05>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Para poupar no consumo do fogão eléctrico, deve desligar os discos cerca de 5 minutos antes de as refeições mais demoradas estarem terminadas.</questionPT>
+			<questionEN></questionEN>
+		</Q1T05>
+		<Q2T05>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>As panelas a utilizar no fogão eléctrico devem ser planas e sem deformação. </questionPT>
+			<questionEN></questionEN>
+		</Q2T05>
+		<Q3T05>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Se não utilizar as panelas apropriadas, o consumo do seu fogão eléctrico pode aumentar até 30%.</questionPT>
+			<questionEN></questionEN>
+		</Q3T05>
+		<Q4T05>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Para poupar no consumo do fogão eléctrico, deve desligar os discos cerca de 15 minutos antes de as refeições mais demoradas estarem terminadas.</questionPT>
+			<questionEN></questionEN>
+		</Q4T05>
+		<Q5T05>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Não é importante que as panelas a utilizar no fogão eléctrico tenham deformação.</questionPT>
+			<questionEN></questionEN>
+		</Q5T05>
+	</Q05>
+	<Q06>
+		<Q0T06>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>O consumo elétrico de uma máquina de lavar roupa depende muito da temperatura selecionada.</questionPT>
+			<questionEN></questionEN>
+		</Q0T06>
+		<Q1T06>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>As máquinas de lavar roupa mais recentes raramente necessitam de utilizar os programas de 90-95ºC.</questionPT>
+			<questionEN></questionEN>
+		</Q1T06>
+		<Q2T06>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Uma máquina cheia consome quase tanto como uma meia carga.</questionPT>
+			<questionEN></questionEN>
+		</Q2T06>
+		<Q3T06>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>O consumo elétrico de uma máquina de lavar roupa não depende da temperatura selecionada.</questionPT>
+			<questionEN></questionEN>
+		</Q3T06>
+		<Q4T06>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Nas máquinas de lavar roupa mais recentes o melhor é utilizar os programas de 90-95ºC.</questionPT>
+			<questionEN></questionEN>
+		</Q4T06>
+		<Q5T06>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Uma máquina cheia consome menos que uma meia carga.</questionPT>
+			<questionEN></questionEN>
+		</Q5T06>
+	</Q06>
+	<Q07>
+		<Q0T07>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Para uma alimentação equilibrada, beba mais de um litro de água por dia.</questionPT>
+			<questionEN></questionEN>
+		</Q0T07>
+		<Q1T07>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Para uma alimentação equilibrada, coma com regularidade.</questionPT>
+			<questionEN></questionEN>
+		</Q1T07>
+		<Q2T07>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Para uma alimentação equilibrada, coma uma grande variedade de cereais, frutos e vegetais.</questionPT>
+			<questionEN></questionEN>
+		</Q2T07>
+		<Q3T07>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Para uma alimentação equilibrada, faça uma alimentação o menos variada possível.</questionPT>
+			<questionEN></questionEN>
+		</Q3T07>
+		<Q4T07>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Para uma alimentação equilibrada, coma fritos, enchidos e carnes processadas regularmente.</questionPT>
+			<questionEN></questionEN>
+		</Q4T07>
+		<Q5T07>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Para uma alimentação equilibrada, elimine por completo o consumo de carne vermelha.</questionPT>
+			<questionEN></questionEN>
+		</Q5T07>
+	</Q07>
+	<Q08>
+		<Q0T08>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>As principais razões para aderir ao vegetarianismo são a saúde, o ambiente e a religião.</questionPT>
+			<questionEN></questionEN>
+		</Q0T08>
+		<Q1T08>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>O vegetarianismo é um plano ou dieta alimentar que exclui praticamente todos os produtos animais.</questionPT>
+			<questionEN></questionEN>
+		</Q1T08>
+		<Q2T08>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>No budismo e no hinduísmo o comer carne é pecado, daí o vegetarianismo ser  uma escolha espiritual.</questionPT>
+			<questionEN></questionEN>
+		</Q2T08>
+		<Q3T08>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>O vegetarianismo é um plano ou dieta alimentar que exclui qualquer tipo de alimento animal, incluindo os ovos, mas não os produtos lacticínios, como o leite, o queijo e os iogurtes, que acompanham a fruta e os vegetais.</questionPT>
+			<questionEN></questionEN>
+		</Q3T08>
+		<Q4T08>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>As principais razões para aderir ao vegetarianismo são a saúde, a economia e a religião.</questionPT>
+			<questionEN></questionEN>
+		</Q4T08>
+		<Q5T08>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>No cristianismo e no budismo o comer carne é pecado, daí o vegetarianismo ser  uma escolha espiritual.</questionPT>
+			<questionEN></questionEN>
+		</Q5T08>
+	</Q08>
+	<Q09>
+		<Q0T09>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>As experiências musicais centram-se nas necessidades e potencialidades específicas da pessoa, com o objetivo de criar condições facilitadoras para a mudança desejada.</questionPT>
+			<questionEN></questionEN>
+		</Q0T09>
+		<Q1T09>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>A musicoterapia tem em conta a unicidade da pessoa ao nível mental, emocional, social, físico e espiritual.</questionPT>
+			<questionEN></questionEN>
+		</Q1T09>
+		<Q2T09>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>A musicoterapia ajuda a pessoa a ligar-se a si mesmo através de uma relação de ajuda com recurso a experiências musicais.</questionPT>
+			<questionEN></questionEN>
+		</Q2T09>
+		<Q3T09>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>As experiências musicais centram-se no gosto musical da pessoa, com o objetivo de criar condições facilitadoras para a mudança desejada.</questionPT>
+			<questionEN></questionEN>
+		</Q3T09>
+		<Q4T09>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>A musicoterapia não tem em conta a unicidade da pessoa ao nível mental, emocional, social, físico e espiritual.</questionPT>
+			<questionEN></questionEN>
+		</Q4T09>
+		<Q5T09>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>A musicoterapia ajuda a pessoa a ligar-se a si mesmo através de uma relação de ajuda com recurso a experiências sensoriais.</questionPT>
+			<questionEN></questionEN>
+		</Q5T09>
+	</Q09>
+	<Q10>
+		<Q0T10>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>É recomendado escovar os dentes duas vezes ao dia e usar o fio dentário diariamente.</questionPT>
+			<questionEN></questionEN>
+		</Q0T10>
+		<Q1T10>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>É recomendado utilizar produtos dentários que contenham flúor, incluindo a pasta dentífrica.</questionPT>
+			<questionEN></questionEN>
+		</Q1T10>
+		<Q2T10>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>É recomendado evitar os lanches entre refeições.</questionPT>
+			<questionEN></questionEN>
+		</Q2T10>
+		<Q3T10>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>É recomendado escovar os dentes diariamente e utilizar o fio dentário duas vezes ao dia.</questionPT>
+			<questionEN></questionEN>
+		</Q3T10>
+		<Q4T10>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>É recomendado não utilizar produtos dentários que contenham flúor, incluindo a pasta dentífrica.</questionPT>
+			<questionEN></questionEN>
+		</Q4T10>
+		<Q5T10>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>É recomendado os lanches entre refeições.</questionPT>
+			<questionEN></questionEN>
+		</Q5T10>
+	</Q10>
+	<Q11>
+		<Q0T11>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>As loções de álcool são utlizadas para matar o vírus da gripe A.</questionPT>
+			<questionEN></questionEN>
+		</Q0T11>
+		<Q1T11>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Utilizar em excesso loções à base de álcool, pode destruir o equilíbrio da pele.</questionPT>
+			<questionEN></questionEN>
+		</Q1T11>
+		<Q2T11>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Na França algumas escolas já proibiram a utilização de loções à base de álcool.</questionPT>
+			<questionEN></questionEN>
+		</Q2T11>
+		<Q3T11>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>As loções de álcool são utlizadas para matar o vírus do dengue.</questionPT>
+			<questionEN></questionEN>
+		</Q3T11>
+		<Q4T11>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>É recomendado utilizar loções de álcool para manter o o equilíbrio da pele.</questionPT>
+			<questionEN></questionEN>
+		</Q4T11>
+		<Q5T11>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Na Finlândia algumas escolas já proibiram a utilização de loções à base de álcool.</questionPT>
+			<questionEN></questionEN>
+		</Q5T11>
+	</Q11>
+	<Q12>
+		<Q0T12>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>A denominação química para o sal de cozinha é NaCl.</questionPT>
+			<questionEN></questionEN>
+		</Q0T12>
+		<Q1T12>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>O sódio é importante para a regulação do volume plasmático, a condução dos impulsos nervosos e a contração muscular.</questionPT>
+			<questionEN></questionEN>
+		</Q1T12>
+		<Q2T12>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>A principal fonte primária de sódio é o sal da cozinha.</questionPT>
+			<questionEN></questionEN>
+		</Q2T12>
+		<Q3T12>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>A denominação química para o sal de cozinha é MgRe.</questionPT>
+			<questionEN></questionEN>
+		</Q3T12>
+		<Q4T12>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>O sódio é importante para a regulação do volume abdominal, a condução dos impulsos nervosos e a descontração muscular.</questionPT>
+			<questionEN></questionEN>
+		</Q4T12>
+		<Q5T12>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>A principal fonte primária de sódio é os alimentos industrializados, como por exemplo as batatas fritas. </questionPT>
+			<questionEN></questionEN>
+		</Q5T12>
+	</Q12>
+	<Q13>
+		<Q0T13>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>A melhor forma de prevenir o aparecimento da diabetes é manter uma alimentação saudável.</questionPT>
+			<questionEN></questionEN>
+		</Q0T13>
+		<Q1T13>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Uma das principais medidas para prevenir o aparecimento da diabetes é controlar o peso regularmente, manter uma alimentação saudável e evitar os açúcares de absorção rápida.</questionPT>
+			<questionEN></questionEN>
+		</Q1T13>
+		<Q2T13>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Os açúcares de absorção rápida estão presentes nos refrigerantes, bolachas e chocolates.</questionPT>
+			<questionEN></questionEN>
+		</Q2T13>
+		<Q3T13>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>A melhor forma de prevenir o aparecimento da diabetes é praticar 60 minutos de exercício diário.</questionPT>
+			<questionEN></questionEN>
+		</Q3T13>
+		<Q4T13>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Uma das principais medidas para prevenir o aparecimento da diabetes é controlar a quantidade de comida ingerida e evitar os açúcares de absorção lenta.</questionPT>
+			<questionEN></questionEN>
+		</Q4T13>
+		<Q5T13>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Os açúcares de absorção rápida estão presentes nos vegetais, na fruta e no leite.</questionPT>
+			<questionEN></questionEN>
+		</Q5T13>
+	</Q13>
+	<Q14>
+		<Q0T14>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>O sistema de exercícios on-line foram elaborados pelos pesquisadores do Instituto de Psiquiatria, Psicologia e Neurociência de Londres.</questionPT>
+			<questionEN></questionEN>
+		</Q0T14>
+		<Q1T14>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Num estudo do Instituto de Psiquiatria, Psicologia e Neurociência de Londres foram avaliados 3000 pessoas com idades superiores a 50 anos.</questionPT>
+			<questionEN></questionEN>
+		</Q1T14>
+		<Q2T14>
+			<questionSubject>text-medium-true</questionSubject>
+			<questionPT>Os participantes do estudo do Instituto de Psiquiatria, Psicologia e Neurociência de Londres passavam entre 10 minutos a 1hora a fazerem os exercícios de forma regular.</questionPT>
+			<questionEN></questionEN>
+		</Q2T14>
+		<Q3T14>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Num estudo do Instituto de Psiquiatria, Psicologia e Neurociência de Londres foram avaliados 4000 pessoas com idades superiores a 50 anos.</questionPT>
+			<questionEN></questionEN>
+		</Q3T14>
+		<Q4T14>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Os exercícios do sistema de exercício on-line foram elaborados pelos pesquisadores do Instituto de Psiquiatria, Psicologia e Neurociência de Luanda.</questionPT>
+			<questionEN></questionEN>
+		</Q4T14>
+		<Q5T14>
+			<questionSubject>text-medium-false</questionSubject>
+			<questionPT>Os participantes do estudo do Instituto de Psiquiatria, Psicologia e Neurociência de Londres passavam entre 15 minutos a 1hora a fazerem os exercícios de forma regular.</questionPT>
+			<questionEN></questionEN>
+		</Q5T14>
+	</Q14>	
+</Questions>
