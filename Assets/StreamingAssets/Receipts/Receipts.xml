@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Receipts>
+	<Receipt0>
+		<Line1>1.24</Line1>
+		<Total>1.24</Total>
+	</Receipt0>
+	<Receipt1>
+		<Line1>0.38</Line1>
+		<Line2>2.78</Line2>
+		<Total>3.18</Total>
+	</Receipt1>
+	<Receipt2>
+		<Line1>0.38</Line1>
+		<Line2>2.75</Line2>
+                <Line3>0.70</Line3>
+		<Line4>3.29</Line4>
+		<Total>7.22</Total>
+	</Receipt2>
+</Receipts>

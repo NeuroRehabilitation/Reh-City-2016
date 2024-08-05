@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language>
+	<MainMenu>
+		<Name>Escreva ou escolha o seu nome:</Name>
+		<Hand>Escolha a mão esquerda ou direita</Hand>
+		<Play>Jogar</Play>
+		<Categories>Categorias</Categories>
+		<Instructions>Instruções</Instructions>
+		<Levels>Níveis</Levels>
+		<Quit>Sair</Quit>
+		<Welcome>Bem-vindo(a) </Welcome>
+		<HandWarning>Ainda não escolheu a mão que pretende usar!</HandWarning>
+		<NameWarning>Ainda não preencheu o ID do utilizador!</NameWarning>
+		<Practice>Praticar</Practice>
+		<Memory>Memória</Memory>
+		<Calibration>Calibração</Calibration>
+		<Emotional>Avaliação Emocional</Emotional>
+		<Task>Tarefa de Memória e Atenção</Task>
+		<Attention>Atenção</Attention>
+		<Selection>Seleção de níveis</Selection>
+		<Info>Deixe em branco se for a primeira sessão</Info>
+		<Loading>A carregar...</Loading>
+		<Options>Opções</Options>
+		<Controls>Teclas</Controls>
+		<Id>ID do Utilizador</Id>
+		<Difficulty>Dificuldade</Difficulty>
+		<Language>Linguagem</Language>
+		<Support>Apoio</Support>
+		<Signs>Placas indicativas</Signs>
+		<Labels>Etiquetas</Labels>
+		<Minimap>Mini mapa</Minimap>
+		<Arrow>Seta de orientação</Arrow>
+		<Objective>Objetivo</Objective>
+		<VSpatial>Visuo-espacial</VSpatial>
+		<Naming>Nomeação</Naming>
+		<Abstraction>Abstração</Abstraction>
+		<DRecall>Ev. Diferida</DRecall>
+		<Orientation>Orientação</Orientation>
+		<EFunctions>F. Executivas</EFunctions>
+		<Idiom>Idioma</Idiom>
+		<Edu>Anos escolaridade</Edu>
+		<Moca>Perfil MoCA</Moca>
+		<Models>Perfil Manual</Models>
+    <Cars>Carros</Cars>
+	</MainMenu>
+	<Misc>
+		<MainMenu>Menu Principal</MainMenu>
+		<pressKey>Pressione Continuar</pressKey>
+		<SessionEnd>Fim da Sessão</SessionEnd>
+		<Score>Pontuação</Score>
+		<PlayAgain>Outra vez!</PlayAgain>
+    <Yes>Verdadeiro</Yes>
+    <No>Falso</No>
+    <Next>Seguinte</Next>
+    <Previous>Anterior</Previous>
+    <Finish>Terminar</Finish>
+	</Misc>
+	<MainGUI>
+		<Timer>Tempo</Timer>
+		<Remaining>Imagens em falta:</Remaining>
+		<Pause>Pressione a barra de espaços para parar</Pause>
+		<Unpause>Pressione a barra de espaços para continuar</Unpause>
+	</MainGUI>
+	<LevelChange>
+		<Level>Nível </Level>
+		<Completed> concluído com </Completed>
+		<Points> Pontos </Points>
+		<Congrats>Muito bem!</Congrats>
+		<Accumulated>Pontos acumulados: </Accumulated>
+		<AllLevels>Todos os níveis estão concluídos!</AllLevels>
+		<Continue>Continuar</Continue>
+		<Session>Sessão concluída!</Session>
+		<Rate>Avalie entre 1 e 9</Rate>
+		<Left>Coloque a sua mão à esquerda</Left>
+		<Right>Coloque a sua mão à direita</Right>
+		<GetReady>Prepare-se para o próximo nível</GetReady>
+	</LevelChange>
+	<Calibration>
+		<Network>Rede</Network>
+		<Filtering>Filtrar</Filtering>
+		<Devices>Dispositivos</Devices>
+		<Port>Porta</Port>
+		<Start>Iniciar</Start>
+		<Stop>Parar</Stop>
+		<Cal>A calibrar...</Cal>
+		<Local>Endereço de IP local: </Local>
+		<Scale>Escala: </Scale>
+		<Filtered>Filtrado: </Filtered>
+		<Copy>Copiar endereço</Copy>
+		<Close>Fechar</Close>
+		<CalibDone>A calibração para este utilizador já foi feita. Pressione Enter para recalibrar ou Esc para saltar este passo.</CalibDone>
+	</Calibration>
+	<Navigation>
+		<Speed>Velocidade</Speed>
+		<Exp>Exponencial</Exp>
+		<Log>Logaritmica</Log>
+		<Prop>Proporcional</Prop>
+		<MoveAndRot>Avançar e girar</MoveAndRot>
+		<Sensitivity>Sensibilidade da rotação</Sensitivity>
+		<TopThresh>Limite superior</TopThresh>
+		<BottomThresh>Limite inferior</BottomThresh>
+		<SidesThresh>Limites laterais</SidesThresh>
+		<Cursor>Manter o cursor</Cursor>
+		<Teleport>Limite de tempo de navegação atingido. A avançar para o destino em:</Teleport>
+    <NodeTime>Tempo por nó (seg)</NodeTime>
+	</Navigation>
+</Language>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language>
+	<MainMenu>
+		<Play>Play</Play>
+		<Settings>Settings</Settings>
+		<Quit>Exit</Quit>
+	</MainMenu>
+	<Misc>
+		<Loading>Loading...</Loading>
+	</Misc>
+</Language>

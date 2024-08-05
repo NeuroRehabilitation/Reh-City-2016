@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+	<Q00>
+		<Q0I00>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Estavam cinco pessoas sentadas na mesa.</questionPT>
+			<questionEN>There were five people sitting at the table.</questionEN>
+		</Q0I00>
+		<Q1I00>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A família estava feliz.</questionPT>
+			<questionEN>The family was happy.</questionEN>
+		</Q1I00>
+		<Q2I00>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A camisola da mãe era cor-de-rosa.</questionPT>
+			<questionEN>Mother's sweater was pink.</questionEN>
+		</Q2I00>
+		<Q3I00>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A toalha da mesa era branca.</questionPT>
+			<questionEN>The tablecloth was white.</questionEN>
+		</Q3I00>
+		<Q4I00>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Estavam à mesa três crianças.</questionPT>
+			<questionEN>There were three children at the table.</questionEN>
+		</Q4I00>
+		<Q5I00>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O pai tinha bigode.</questionPT>
+			<questionEN>His father had a mustache.</questionEN>
+		</Q5I00>
+		<Q6I00>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O pai era careca.</questionPT>
+			<questionEN>The father was bald.</questionEN>
+		</Q6I00>
+		<Q7I00>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A refeição não incluía vegetais.</questionPT>
+			<questionEN>The meal did not include vegetables.</questionEN>
+		</Q7I00>
+		<Q8I00>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A menina tinha cabelo comprido.</questionPT>
+			<questionEN>The girl had long hair.</questionEN>
+		</Q8I00>
+	</Q00>
+	<Q01>
+		<Q0I01>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A imagem era de um corredor de hospital.</questionPT>
+			<questionEN>The image was from a hospital corridor.</questionEN>
+		</Q0I01>
+		<Q1I01>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O carro de compras tinha quatro rodas.</questionPT>
+			<questionEN>The shopping cart had four wheels.</questionEN>
+		</Q1I01>
+		<Q2I01>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O carro de compras era verde.</questionPT>
+			<questionEN>The shopping cart was green.</questionEN>
+		</Q2I01>
+		<Q3I01>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O carro de compras estava vazio.</questionPT>
+			<questionEN>The shopping cart was empty.</questionEN>
+		</Q3I01>
+		<Q4I01>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Haviam dois ananases no carro de compras.</questionPT>
+			<questionEN>There were two pineapples in the shopping cart.</questionEN>
+		</Q4I01>
+		<Q5I01>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O chão do supermercado era azul.</questionPT>
+			<questionEN>The supermarket floor was blue.</questionEN>
+		</Q5I01>
+		<Q6I01>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>As prateleiras estavam cheias.</questionPT>
+			<questionEN>The shelves were full.</questionEN>
+		</Q6I01>
+		<Q7I01>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Era a secção das frutas e legumes.</questionPT>
+			<questionEN>It was the fruit and vegetable section.</questionEN>
+		</Q7I01>
+		<Q8I01>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Alguém estava a segurar no carro de compras.</questionPT>
+			<questionEN>Someone was holding the shopping cart.</questionEN>
+		</Q8I01>
+	</Q01>
+	<Q02>
+		<Q0I02>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Estavam duas crianças na imagem.</questionPT>
+			<questionEN>There were two children in the picture.</questionEN>
+		</Q0I02>
+		<Q1I02>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>As crianças estavam a ler um livro.</questionPT>
+			<questionEN>The kids were reading a book.</questionEN>
+		</Q1I02>
+		<Q2I02>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A camisola do menino era vermelha.</questionPT>
+			<questionEN>The boy's sweater was red.</questionEN>
+		</Q2I02>
+		<Q3I02>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Ambas as crianças estavam a usar óculos.</questionPT>
+			<questionEN>Both children were wearing glasses.</questionEN>
+		</Q3I02>
+		<Q4I02>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O cabelo das crianças era castanho escuro.</questionPT>
+			<questionEN>The children's hair was dark brown.</questionEN>
+		</Q4I02>
+		<Q5I02>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O teclado do computador era todo preto.</questionPT>
+			<questionEN>The computer keyboard was all black.</questionEN>
+		</Q5I02>
+		<Q6I02>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>As crianças estavam a chorar.</questionPT>
+			<questionEN>The children were crying.</questionEN>
+		</Q6I02>
+		<Q7I02>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>As crianças estavam numa biblioteca.</questionPT>
+			<questionEN>The children were in a library.</questionEN>
+		</Q7I02>
+		<Q8I02>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>As crianças estavam a ser ajudadas por um professor.</questionPT>
+			<questionEN>The children were being helped by a teacher.</questionEN>
+		</Q8I02>
+	</Q02>
+	<Q03>
+		<Q0I03>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>As cores das tendas eram amarelo e vermelho.</questionPT>
+			<questionEN>The tents were yellow and red.</questionEN>
+		</Q0I03>
+		<Q1I03>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estavam na imagem três tendas.</questionPT>
+			<questionEN>There were three tents in the picture.</questionEN>
+		</Q1I03>
+		<Q2I03>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O acampamento era na praia.</questionPT>
+			<questionEN>The camping was at the beach.</questionEN>
+		</Q2I03>
+		<Q3I03>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estava uma mulher junto às tendas.</questionPT>
+			<questionEN>There was a woman by the tents.</questionEN>
+		</Q3I03>
+		<Q4I03>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estavam duas pessoas na imagem.</questionPT>
+			<questionEN>There were two people in the picture.</questionEN>
+		</Q4I03>
+		<Q5I03>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>As tendas eram do mesmo tamanho.</questionPT>
+			<questionEN>The tents were the same size.</questionEN>
+		</Q5I03>
+		<Q6I03>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Tinha neve nas montanhas.</questionPT>
+			<questionEN>There was snow in the mountains.</questionEN>
+		</Q6I03>
+		<Q7I03>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>As árvores estavam verdes.</questionPT>
+			<questionEN>The trees were green.</questionEN>
+		</Q7I03>
+		<Q8I03>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Existia uma fogueira junto às tendas.</questionPT>
+			<questionEN>There was a fire by the tents.</questionEN>
+		</Q8I03>
+	</Q03>
+	<Q04>
+		<Q0I04>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Estava um homem no multibanco.</questionPT>
+			<questionEN>There was a man at the ATM.</questionEN>
+		</Q0I04>
+		<Q1I04>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estavam duas pessoas no multibanco.</questionPT>
+			<questionEN>There were two people at the ATM.</questionEN>
+		</Q1I04>
+		<Q2I04>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O multibanco era vermelho.</questionPT>
+			<questionEN>The ATM was red.</questionEN>
+		</Q2I04>
+		<Q3I04>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O homem estava a usar calções.</questionPT>
+			<questionEN>The man was wearing shorts.</questionEN>
+		</Q3I04>
+		<Q4I04>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O homem estava a usar uma camisola cinzenta.</questionPT>
+			<questionEN>The man was wearing a gray sweater.</questionEN>
+		</Q4I04>
+		<Q5I04>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O ecrã do multibanco estava azul.</questionPT>
+			<questionEN>The ATM screen was blue.</questionEN>
+		</Q5I04>
+		<Q6I04>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O homem era louro.</questionPT>
+			<questionEN>The man was blond.</questionEN>
+		</Q6I04>
+		<Q7I04>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O caixote do lixo estava cheio.</questionPT>
+			<questionEN>The dustbin was full.</questionEN>
+		</Q7I04>
+		<Q8I04>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O homem estava a assaltar o banco.</questionPT>
+			<questionEN>The man was robbing the bank.</questionEN>
+		</Q8I04>
+	</Q04>
+	<Q05>
+		<Q0I05>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Na imagem estava um golfinho e uma senhora.</questionPT>
+			<questionEN>On the picture was a dolphin and a lady.</questionEN>
+		</Q0I05>
+		<Q1I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Na imagem estavam três golfinhos.</questionPT>
+			<questionEN>In the picture there were three dolphins.</questionEN>
+		</Q1I05>
+		<Q2I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Ambos os golfinhos estavam dentro de água.</questionPT>
+			<questionEN>Both dolphins were in the water.</questionEN>
+		</Q2I05>
+		<Q3I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A treinadora estava a alimentar os golfinhos.</questionPT>
+			<questionEN>The coach was feeding the dolphins.</questionEN>
+		</Q3I05>
+		<Q4I05>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Os golfinhos estavam numa piscina.</questionPT>
+			<questionEN>The dolphins were in a pool.</questionEN>
+		</Q4I05>
+		<Q5I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O tratador era um homem.</questionPT>
+			<questionEN>The attendant was a man.</questionEN>
+		</Q5I05>
+		<Q6I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O fato da treinadora era verde.</questionPT>
+			<questionEN>The coach suit was green.</questionEN>
+		</Q6I05>
+		<Q7I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A treinadora estava a usar óculos de sol.</questionPT>
+			<questionEN>The coach was wearing sunglasses.</questionEN>
+		</Q7I05>
+		<Q8I05>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Os golfinhos pareciam estar a sofrer.</questionPT>
+			<questionEN>The dolphins seemed to be suffering.</questionEN>
+		</Q8I05>
+	</Q05>
+	<Q06>
+		<Q0I06>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Na imagem estavam duas crianças.</questionPT>
+			<questionEN>There were two children in the picture.</questionEN>
+		</Q0I06>
+		<Q1I06>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Na imagem estava um cão.</questionPT>
+			<questionEN>In the picture there was a dog.</questionEN>
+		</Q1I06>
+		<Q2I06>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Na imagem estava uma família.</questionPT>
+			<questionEN>In the picture there was a family.</questionEN>
+		</Q2I06>
+		<Q3I06>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O casal tinha um menino com eles.</questionPT>
+			<questionEN>The couple had a boy with them.</questionEN>
+		</Q3I06>
+		<Q4I06>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A areia era preta.</questionPT>
+			<questionEN>The sand was black.</questionEN>
+		</Q4I06>
+		<Q5I06>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O pêlo do cão era branco e comprido.</questionPT>
+			<questionEN>The dog's coat was white and long.</questionEN>
+		</Q5I06>
+		<Q6I06>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Estava a chover.</questionPT>
+			<questionEN>It was raining.</questionEN>
+		</Q6I06>
+		<Q7I06>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Estavam todos felizes.</questionPT>
+			<questionEN>They were all happy.</questionEN>
+		</Q7I06>
+		<Q8I06>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A praia estava cheia de gente.</questionPT>
+			<questionEN>The beach was crowded.</questionEN>
+		</Q8I06>
+	</Q06>
+	<Q07>
+		<Q0I07>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Na imagem estavam uma mãe e uma filha.</questionPT>
+			<questionEN>There was a mother and a daughter in the picture.</questionEN>
+		</Q0I07>
+		<Q1I07>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Ambas estavam a segurar uma revista.</questionPT>
+			<questionEN>They were both holding a magazine.</questionEN>
+		</Q1I07>
+		<Q2I07>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>As flores da imagem eram rosas.</questionPT>
+			<questionEN>The flowers in the picture were pink.</questionEN>
+		</Q2I07>
+		<Q3I07>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Elas pareciam felizes.</questionPT>
+			<questionEN>They looked happy.</questionEN>
+		</Q3I07>
+		<Q4I07>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O cabelo da menina era encaracolado.</questionPT>
+			<questionEN>The girl's hair was curly.</questionEN>
+		</Q4I07>
+		<Q5I07>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O cabelo da mulher era preto.</questionPT>
+			<questionEN>The woman's hair was black.</questionEN>
+		</Q5I07>
+		<Q6I07>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Os vasos eram cor-de-rosa.</questionPT>
+			<questionEN>The vases were pink.</questionEN>
+		</Q6I07>
+		<Q7I07>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A mulher estava a usar um colar.</questionPT>
+			<questionEN>The woman was wearing a necklace.</questionEN>
+		</Q7I07>
+		<Q8I07>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Elas estavam dentro de casa.</questionPT>
+			<questionEN>They were in the house.</questionEN>
+		</Q8I07>
+	</Q07>
+	<Q08>
+		<Q0I08>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A parede era branca.</questionPT>
+			<questionEN>The wall was white.</questionEN>
+		</Q0I08>
+		<Q1I08>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>As massas eram esparguete e macarrão.</questionPT>
+			<questionEN>The pasta was spaghetti and macaroni.</questionEN>
+		</Q1I08>
+		<Q2I08>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A carne já estava cozinhada.</questionPT>
+			<questionEN>The meat was already cooked.</questionEN>
+		</Q2I08>
+		<Q3I08>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O vaso era preto.</questionPT>
+			<questionEN>The vase was black.</questionEN>
+		</Q3I08>
+		<Q4I08>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Os tomates estavam verdes.</questionPT>
+			<questionEN>The tomatoes were not mature.</questionEN>
+		</Q4I08>
+		<Q5I08>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Em cima do balcão estava um garfo.</questionPT>
+			<questionEN>On the counter was a fork.</questionEN>
+		</Q5I08>
+		<Q6I08>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A refeição já estava pronta.</questionPT>
+			<questionEN>The meal was ready.</questionEN>
+		</Q6I08>
+		<Q7I08>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Íam ser cozinhadas 2 malaguetas.</questionPT>
+			<questionEN>2 chillies were to be cooked.</questionEN>
+		</Q7I08>
+		<Q8I08>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A massa ia ser temperada com orégãos.</questionPT>
+			<questionEN>The pasta was to be seasoned with oregano.</questionEN>
+		</Q8I08>
+	</Q08>
+	<Q09>
+		<Q0I09>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estavam na pista quatro aviões.</questionPT>
+			<questionEN>Four airplanes were on the runway.</questionEN>
+		</Q0I09>
+		<Q1I09>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Um dos aviões era da companhia portuguesa TAP.</questionPT>
+			<questionEN>One of the planes was owned by the Portuguese company TAP.</questionEN>
+		</Q1I09>
+		<Q2I09>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Ambos os aviões eram brancos.</questionPT>
+			<questionEN>Both planes were white.</questionEN>
+		</Q2I09>
+		<Q3I09>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estava a chover.</questionPT>
+			<questionEN>It was raining.</questionEN>
+		</Q3I09>
+		<Q4I09>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>As pessoas estavam a caminhar para o avião.</questionPT>
+			<questionEN>People were walking to the plane.</questionEN>
+		</Q4I09>
+		<Q5I09>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Um dos aviões estava a aterrar.</questionPT>
+			<questionEN>One of the planes was landing.</questionEN>
+		</Q5I09>
+		<Q6I09>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estava um autocarro a transportar as pessoas.</questionPT>
+			<questionEN>There was a bus carrying people.</questionEN>
+		</Q6I09>
+		<Q7I09>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Eram visíveis diversas casas ao fundo.</questionPT>
+			<questionEN>Several houses were visible in the background.</questionEN>
+		</Q7I09>
+		<Q8I09>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Um dos aviões estava a descolar.</questionPT>
+			<questionEN>One of the planes was taking off.</questionEN>
+		</Q8I09>
+	</Q09>
+	<Q10>
+		<Q0I10>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Na imagem estavam três pessoas com camisola às riscas.</questionPT>
+			<questionEN>In the picture there were three people in a striped sweater.</questionEN>
+		</Q0I10>
+		<Q1I10>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Na imagem estavam duas crianças.</questionPT>
+			<questionEN>In the picture there were two children.</questionEN>
+		</Q1I10>
+		<Q2I10>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A bola era azul.</questionPT>
+			<questionEN>The ball was blue.</questionEN>
+		</Q2I10>
+		<Q3I10>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Estava a chover.</questionPT>
+			<questionEN>It was raining.</questionEN>
+		</Q3I10>
+		<Q4I10>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A senhora estava a usar calças brancas.</questionPT>
+			<questionEN>You were wearing white pants.</questionEN>
+		</Q4I10>
+		<Q5I10>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A relva estava aparada.</questionPT>
+			<questionEN>The grass was trimmed.</questionEN>
+		</Q5I10>
+		<Q6I10>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A senhora estava a usar batom vermelho.</questionPT>
+			<questionEN>The lady was wearing red lipstick.</questionEN>
+		</Q6I10>
+		<Q7I10>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Estavam todos tristes.</questionPT>
+			<questionEN>They were all sad.</questionEN>
+		</Q7I10>
+		<Q8I10>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A menina estava com o cabelo apanhado.</questionPT>
+			<questionEN>The girl had her hair caught.</questionEN>
+		</Q8I10>
+	</Q10>
+	<Q11>
+		<Q0I11>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Uma das funcionárias estava a tomar café.</questionPT>
+			<questionEN>One of the clerks was drinking coffee.</questionEN>
+		</Q0I11>
+		<Q1I11>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Os post-its que estavam em cima da mesa eram coloridos.</questionPT>
+			<questionEN>The post-its on the table were colorful.</questionEN>
+		</Q1I11>
+		<Q2I11>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Na imagem estavam cinco senhoras.</questionPT>
+			<questionEN>There were five ladies in the picture.</questionEN>
+		</Q2I11>
+		<Q3I11>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A gravata do senhor que estava ao centro era vermelha.</questionPT>
+			<questionEN>The tie of the gentleman in the center was red.</questionEN>
+		</Q3I11>
+		<Q4I11>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O computador era preto.</questionPT>
+			<questionEN>The computer was black.</questionEN>
+		</Q4I11>
+		<Q5I11>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O copo que estava em cima da mesa tinha sumo.</questionPT>
+			<questionEN>The glass on the table had juice.</questionEN>
+		</Q5I11>
+		<Q6I11>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Uma das senhoras tinha o cabelo escuro.</questionPT>
+			<questionEN>One of the ladies had dark hair.</questionEN>
+		</Q6I11>
+		<Q7I11>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Os funcionários estavam tristes.</questionPT>
+			<questionEN>The staff were sad.</questionEN>
+		</Q7I11>
+		<Q8I11>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O senhor de camisa cinzenta estava a usar óculos.</questionPT>
+			<questionEN>The gentleman in the grey shirt was wearing glasses.</questionEN>
+		</Q8I11>
+	</Q11>
+	<Q12>
+		<Q0I12>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Estavam duas cenouras sobre a mesa.</questionPT>
+			<questionEN>There were two carrots on the table.</questionEN>
+		</Q0I12>
+		<Q1I12>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Havia um pimentão amarelo e um vermelho.</questionPT>
+			<questionEN>There was a yellow pepper and a red one.</questionEN>
+		</Q1I12>
+		<Q2I12>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Na mesa estavam apenas três tigelas.</questionPT>
+			<questionEN>There were only three bowls on the table.</questionEN>
+		</Q2I12>
+		<Q3I12>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Havia uma garrafa sobre a mesa.</questionPT>
+			<questionEN>There was a bottle on the table.</questionEN>
+		</Q3I12>
+		<Q4I12>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Estavam cinco pães dispostos sobre a mesa.</questionPT>
+			<questionEN>There were five loaves laid out on the table.</questionEN>
+		</Q4I12>
+		<Q5I12>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Iam ser utilizados cogumelos enlatados na receita.</questionPT>
+			<questionEN>Canned mushrooms were used in the recipe.</questionEN>
+		</Q5I12>
+		<Q6I12>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Não havia fruta sobre a bancada.</questionPT>
+			<questionEN>There was no fruit on the counter.</questionEN>
+		</Q6I12>
+		<Q7I12>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O conteúdo do copo era verde.</questionPT>
+			<questionEN>The content of the glass was green.</questionEN>
+		</Q7I12>
+		<Q8I12>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Iam ser usados dois tipos diferentes de tomates na receita.</questionPT>
+			<questionEN>Two different types of tomatoes were to be used in the recipe.</questionEN>
+		</Q8I12>
+	</Q12>
+	<Q13>
+		<Q0I13>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Estavam três elefantes na imagem.</questionPT>
+			<questionEN>There were three elephants in the picture.</questionEN>
+		</Q0I13>
+		<Q1I13>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Não haviam pessoas a fotografar os animais.</questionPT>
+			<questionEN>There were no people photographing the animals.</questionEN>
+		</Q1I13>
+		<Q2I13>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Os elefantes estavam fora do lago.</questionPT>
+			<questionEN>The elephants were out of the lake.</questionEN>
+		</Q2I13>
+		<Q3I13>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Os tratadores estavam em cima dos elefantes.</questionPT>
+			<questionEN>The handlers were on top of the elephants.</questionEN>
+		</Q3I13>
+		<Q4I13>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A cor da farda dos funcionários do zoo era azul.</questionPT>
+			<questionEN>The color of the zoo staff uniform was blue.</questionEN>
+		</Q4I13>
+		<Q5I13>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Os funcionários não estavam a usar chapéu.</questionPT>
+			<questionEN>The staff were not wearing a hat.</questionEN>
+		</Q5I13>
+		<Q6I13>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Os elefantes estavam a ser alimentados.</questionPT>
+			<questionEN>The elephants were being fed.</questionEN>
+		</Q6I13>
+		<Q7I13>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A camisola do senhor que estava de costas era vermelha.</questionPT>
+			<questionEN>The man's sweater that was on his back was red.</questionEN>
+		</Q7I13>
+		<Q8I13>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Estavam algumas crianças no público.</questionPT>
+			<questionEN>There were some children in the audience.</questionEN>
+		</Q8I13>
+	</Q13>
+	<Q14>
+		<Q0I14>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Estavam duas pessoas a remar.</questionPT>
+			<questionEN>There were two people rowing.</questionEN>
+		</Q0I14>
+		<Q1I14>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A canoa era azul.</questionPT>
+			<questionEN>The canoe was blue.</questionEN>
+		</Q1I14>
+		<Q2I14>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O lenço da senhora era branco.</questionPT>
+			<questionEN>The lady's handkerchief was white.</questionEN>
+		</Q2I14>
+		<Q3I14>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O senhor estava vestido de branco.</questionPT>
+			<questionEN>The gentleman was dressed in white.</questionEN>
+		</Q3I14>
+		<Q4I14>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Estavam a transportar animais no barco.</questionPT>
+			<questionEN>They were transporting animals on the boat.</questionEN>
+		</Q4I14>
+		<Q5I14>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A água estava cheia de lixo.</questionPT>
+			<questionEN>The water was full of garbage.</questionEN>
+		</Q5I14>
+		<Q6I14>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Havia uma criança no barco.</questionPT>
+			<questionEN>There was a child on the boat.</questionEN>
+		</Q6I14>
+		<Q7I14>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Ambos os passageiros estavam de costas.</questionPT>
+			<questionEN>Both passengers were on their backs.</questionEN>
+		</Q7I14>
+		<Q8I14>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Ao fundo haviam palmeiras.</questionPT>
+			<questionEN>There were palm trees in the background.</questionEN>
+		</Q8I14>
+	</Q14>
+	<Q15>
+		<Q0I15>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A gravata do médico era vermelha.</questionPT>
+			<questionEN>The doctor's tie was red.</questionEN>
+		</Q0I15>
+		<Q1I15>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O paciente tinha barba.</questionPT>
+			<questionEN>The patient had a beard.</questionEN>
+		</Q1I15>
+		<Q2I15>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A camisola do paciente era preta.</questionPT>
+			<questionEN>The patient's sweater was black.</questionEN>
+		</Q2I15>
+		<Q3I15>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O paciente parecia estar em sofrimento.</questionPT>
+			<questionEN>The patient seemed to be in pain.</questionEN>
+		</Q3I15>
+		<Q4I15>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O médico estava a medir a temperatura.</questionPT>
+			<questionEN>The doctor was measuring the temperature.</questionEN>
+		</Q4I15>
+		<Q5I15>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A bata do médico era amarela.</questionPT>
+			<questionEN>The doctor's robe was yellow.</questionEN>
+		</Q5I15>
+		<Q6I15>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O paciente usava óculos de vista.</questionPT>
+			<questionEN>The patient was wearing eyeglasses.</questionEN>
+		</Q6I15>
+		<Q7I15>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O médico parecia estar sentado.</questionPT>
+			<questionEN>The doctor seemed to be seated.</questionEN>
+		</Q7I15>
+		<Q8I15>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O médico era loiro.</questionPT>
+			<questionEN>The doctor was blond.</questionEN>
+		</Q8I15>
+	</Q15>
+	<Q16>
+		<Q0I16>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O carteiro usava relógio.</questionPT>
+			<questionEN>The postman was wearing a watch.</questionEN>
+		</Q0I16>
+		<Q1I16>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A cor da farda era preta.</questionPT>
+			<questionEN>The color of the uniform was black.</questionEN>
+		</Q1I16>
+		<Q2I16>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>A caixa que estava na bicicleta era vermelha.</questionPT>
+			<questionEN>The box on the bicycle was red.</questionEN>
+		</Q2I16>
+		<Q3I16>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O carteiro não estava a utilizar capacete.</questionPT>
+			<questionEN>The postman was not wearing a helmet.</questionEN>
+		</Q3I16>
+		<Q4I16>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A carta que tinha na mão era verde.</questionPT>
+			<questionEN>The letter in his hand was green.</questionEN>
+		</Q4I16>
+		<Q5I16>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>A bicicleta estava no passeio.</questionPT>
+			<questionEN>The bike was on the sidewalk.</questionEN>
+		</Q5I16>
+		<Q6I16>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O carteiro estava a usar uma bolsa.</questionPT>
+			<questionEN>The postman was wearing a bag.</questionEN>
+		</Q6I16>
+		<Q7I16>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>Haviam carros estacionados.</questionPT>
+			<questionEN>There were cars parked.</questionEN>
+		</Q7I16>
+		<Q8I16>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>Não haviam arbustos na imagem.</questionPT>
+			<questionEN>There were no shrubs in the picture.</questionEN>
+		</Q8I16>
+	</Q16>
+	<Q17>
+		<Q0I17>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O regador era de metal.</questionPT>
+			<questionEN>The watering can was made of metal.</questionEN>
+		</Q0I17>
+		<Q1I17>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>As luvas eram castanhas.</questionPT>
+			<questionEN>The gloves were brown.</questionEN>
+		</Q1I17>
+		<Q2I17>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>No cesto haviam flores vermelhas.</questionPT>
+			<questionEN>There were red flowers in the basket.</questionEN>
+		</Q2I17>
+		<Q3I17>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>O cabo da pá era verde.</questionPT>
+			<questionEN>The shovel handle was green.</questionEN>
+		</Q3I17>
+		<Q4I17>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Haviam vasos de diferentes tamanhos.</questionPT>
+			<questionEN>There were vases of different sizes.</questionEN>
+		</Q4I17>
+		<Q5I17>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Os vasos eram de cerâmica.</questionPT>
+			<questionEN>The vases were made of ceramic.</questionEN>
+		</Q5I17>
+		<Q6I17>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>O chapéu era de palha.</questionPT>
+			<questionEN>The hat was made of straw.</questionEN>
+		</Q6I17>
+		<Q7I17>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A fita do chapéu era azul.</questionPT>
+			<questionEN>The hat ribbon was blue.</questionEN>
+		</Q7I17>
+		<Q8I17>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Haviam flores brancas.</questionPT>
+			<questionEN>There were white flowers.</questionEN>
+		</Q8I17>
+	</Q17>
+	<Q18>
+		<Q0I18>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O  capacete era amarelo.</questionPT>
+			<questionEN>The helmet was yellow.</questionEN>
+		</Q0I18>
+		<Q1I18>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O senhor estava a usar luvas.</questionPT>
+			<questionEN>The gentleman was wearing gloves.</questionEN>
+		</Q1I18>
+		<Q2I18>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O macacão do senhor era vermelho.</questionPT>
+			<questionEN>The gentleman overall was red.</questionEN>
+		</Q2I18>
+		<Q3I18>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O senhor tinha barba.</questionPT>
+			<questionEN>The gentleman had a beard.</questionEN>
+		</Q3I18>
+		<Q4I18>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>O macacão não estava sujo com tinta.</questionPT>
+			<questionEN>The overall was not dirty with paint.</questionEN>
+		</Q4I18>
+		<Q5I18>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>O senhor parecia estar concentrado.</questionPT>
+			<questionEN>The gentleman seemed to be concentrated.</questionEN>
+		</Q5I18>
+		<Q6I18>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A parede era vermelha.</questionPT>
+			<questionEN>The wall was red.</questionEN>
+		</Q6I18>
+		<Q7I18>
+			<questionSubject>image-general-false</questionSubject>
+			<questionPT>A parede estava a ser pintada de branca.</questionPT>
+			<questionEN>The wall was being white painted.</questionEN>
+		</Q7I18>
+		<Q8I18>
+			<questionSubject>image-general-true</questionSubject>
+			<questionPT>A armação de ferro onde o senhor estava a trabalhar era amarela.</questionPT>
+			<questionEN>The iron frame where the man was working was yellow.</questionEN>
+		</Q8I18>
+	</Q18>
+	<Q19>
+		<Q0I19>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Havia uma parede pintada de amarelo.</questionPT>
+			<questionEN>There was a wall painted in yellow.</questionEN>
+		</Q0I19>
+		<Q1I19>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A camisola da professora era branca.</questionPT>
+			<questionEN>The teacher's sweater was white.</questionEN>
+		</Q1I19>
+		<Q2I19>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Uma das meninas estava a usar calções amarelos.</questionPT>
+			<questionEN>One of the girls was wearing yellow shorts.</questionEN>
+		</Q2I19>
+		<Q3I19>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>As crianças pareciam tristes.</questionPT>
+			<questionEN>The children looked sad.</questionEN>
+		</Q3I19>
+		<Q4I19>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>A corda que estava a ser usada era verde.</questionPT>
+			<questionEN>The rope that was being used was green.</questionEN>
+		</Q4I19>
+		<Q5I19>
+			<questionSubject>image-health-false</questionSubject>
+			<questionPT>Existiam cinco árvores no pátio.</questionPT>
+			<questionEN>There were five trees in the yard.</questionEN>
+		</Q5I19>
+		<Q6I19>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Era possível visualizar prédios ao fundo.</questionPT>
+			<questionEN>You could see buildings in the background.</questionEN>
+		</Q6I19>
+		<Q7I19>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>A professora estava a usar calças.</questionPT>
+			<questionEN>The teacher was wearing pants.</questionEN>
+		</Q7I19>
+		<Q8I19>
+			<questionSubject>image-health-true</questionSubject>
+			<questionPT>Haviam crianças descalças.</questionPT>
+			<questionEN>There were barefoot children.</questionEN>
+		</Q8I19>
+	</Q19>
+</Questions>

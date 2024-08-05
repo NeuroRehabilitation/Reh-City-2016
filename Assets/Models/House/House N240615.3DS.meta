@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 3fdc876b52b778e4cadd35e97acab1b3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 0      011
+    100002: 1      011
+    100004: 14     011
+    100006: 15     011
+    100008: 2      011
+    100010: 20     011
+    100012: 21     011
+    100014: 22     011
+    100016: 23     011
+    100018: 24     011
+    100020: 25     011
+    100022: 26     011
+    100024: 27     011
+    100026: 28     011
+    100028: 3      011
+    100030: 30     011
+    100032: 31     011
+    100034: 32     011
+    100036: 33     011
+    100038: 34     011
+    100040: 35     011
+    100042: 36     011
+    100044: 37     011
+    100046: 38     011
+    100048: 4      011
+    100050: 5      011
+    100052: 6      011
+    100054: 7      011
+    100056: 8      011
+    100058: 9      011
+    100060: ATiles001
+    100062: ATiles002
+    100064: ATiles003
+    100066: ATiles005
+    100068: ATiles006
+    100070: ATiles007
+    100072: ATiles008
+    100074: ATiles009
+    100076: ATiles010
+    100078: ATiles011
+    100080: ATiles012
+    100082: ATiles013
+    100084: ATiles014
+    100086: ATiles015
+    100088: ATiles016
+    100090: ATiles017
+    100092: ATiles018
+    100094: ATiles019
+    100096: //RootNode
+    100098: Mesh01
+    100100: Object001
+    100102: Object002
+    100104: Object003
+    100106: Object004
+    100108: Object005
+    100110: Object006
+    100112: Object007
+    100114: Object008
+    100116: Object009
+    100118: Object010
+    100120: Object011
+    400000: 0      011
+    400002: 1      011
+    400004: 14     011
+    400006: 15     011
+    400008: 2      011
+    400010: 20     011
+    400012: 21     011
+    400014: 22     011
+    400016: 23     011
+    400018: 24     011
+    400020: 25     011
+    400022: 26     011
+    400024: 27     011
+    400026: 28     011
+    400028: 3      011
+    400030: 30     011
+    400032: 31     011
+    400034: 32     011
+    400036: 33     011
+    400038: 34     011
+    400040: 35     011
+    400042: 36     011
+    400044: 37     011
+    400046: 38     011
+    400048: 4      011
+    400050: 5      011
+    400052: 6      011
+    400054: 7      011
+    400056: 8      011
+    400058: 9      011
+    400060: ATiles001
+    400062: ATiles002
+    400064: ATiles003
+    400066: ATiles005
+    400068: ATiles006
+    400070: ATiles007
+    400072: ATiles008
+    400074: ATiles009
+    400076: ATiles010
+    400078: ATiles011
+    400080: ATiles012
+    400082: ATiles013
+    400084: ATiles014
+    400086: ATiles015
+    400088: ATiles016
+    400090: ATiles017
+    400092: ATiles018
+    400094: ATiles019
+    400096: //RootNode
+    400098: Mesh01
+    400100: Object001
+    400102: Object002
+    400104: Object003
+    400106: Object004
+    400108: Object005
+    400110: Object006
+    400112: Object007
+    400114: Object008
+    400116: Object009
+    400118: Object010
+    400120: Object011
+    2300000: 0      011
+    2300002: 1      011
+    2300004: 14     011
+    2300006: 15     011
+    2300008: 2      011
+    2300010: 20     011
+    2300012: 21     011
+    2300014: 22     011
+    2300016: 23     011
+    2300018: 24     011
+    2300020: 25     011
+    2300022: 26     011
+    2300024: 27     011
+    2300026: 28     011
+    2300028: 3      011
+    2300030: 30     011
+    2300032: 31     011
+    2300034: 32     011
+    2300036: 33     011
+    2300038: 34     011
+    2300040: 35     011
+    2300042: 36     011
+    2300044: 37     011
+    2300046: 38     011
+    2300048: 4      011
+    2300050: 5      011
+    2300052: 6      011
+    2300054: 7      011
+    2300056: 8      011
+    2300058: 9      011
+    2300060: ATiles001
+    2300062: ATiles002
+    2300064: ATiles003
+    2300066: ATiles005
+    2300068: ATiles006
+    2300070: ATiles007
+    2300072: ATiles008
+    2300074: ATiles009
+    2300076: ATiles010
+    2300078: ATiles011
+    2300080: ATiles012
+    2300082: ATiles013
+    2300084: ATiles014
+    2300086: ATiles015
+    2300088: ATiles016
+    2300090: ATiles017
+    2300092: ATiles018
+    2300094: ATiles019
+    2300096: Mesh01
+    2300098: Object001
+    2300100: Object002
+    2300102: Object003
+    2300104: Object004
+    2300106: Object005
+    2300108: Object006
+    2300110: Object007
+    2300112: Object008
+    2300114: Object009
+    2300116: Object010
+    2300118: Object011
+    3300000: 0      011
+    3300002: 1      011
+    3300004: 14     011
+    3300006: 15     011
+    3300008: 2      011
+    3300010: 20     011
+    3300012: 21     011
+    3300014: 22     011
+    3300016: 23     011
+    3300018: 24     011
+    3300020: 25     011
+    3300022: 26     011
+    3300024: 27     011
+    3300026: 28     011
+    3300028: 3      011
+    3300030: 30     011
+    3300032: 31     011
+    3300034: 32     011
+    3300036: 33     011
+    3300038: 34     011
+    3300040: 35     011
+    3300042: 36     011
+    3300044: 37     011
+    3300046: 38     011
+    3300048: 4      011
+    3300050: 5      011
+    3300052: 6      011
+    3300054: 7      011
+    3300056: 8      011
+    3300058: 9      011
+    3300060: ATiles001
+    3300062: ATiles002
+    3300064: ATiles003
+    3300066: ATiles005
+    3300068: ATiles006
+    3300070: ATiles007
+    3300072: ATiles008
+    3300074: ATiles009
+    3300076: ATiles010
+    3300078: ATiles011
+    3300080: ATiles012
+    3300082: ATiles013
+    3300084: ATiles014
+    3300086: ATiles015
+    3300088: ATiles016
+    3300090: ATiles017
+    3300092: ATiles018
+    3300094: ATiles019
+    3300096: Mesh01
+    3300098: Object001
+    3300100: Object002
+    3300102: Object003
+    3300104: Object004
+    3300106: Object005
+    3300108: Object006
+    3300110: Object007
+    3300112: Object008
+    3300114: Object009
+    3300116: Object010
+    3300118: Object011
+    4300000: Object001
+    4300002: Object002
+    4300004: Object003
+    4300006: Object004
+    4300008: Object005
+    4300010: Object006
+    4300012: Object007
+    4300014: Object008
+    4300016: Object009
+    4300018: Object010
+    4300020: Object011
+    4300022: 0      011
+    4300024: 1      011
+    4300026: 2      011
+    4300028: 3      011
+    4300030: ATiles017
+    4300032: 5      011
+    4300034: ATiles016
+    4300036: ATiles015
+    4300038: 8      011
+    4300040: 9      011
+    4300042: 14     011
+    4300044: 15     011
+    4300046: 20     011
+    4300048: 21     011
+    4300050: 22     011
+    4300052: 23     011
+    4300054: 24     011
+    4300056: 25     011
+    4300058: ATiles018
+    4300060: 27     011
+    4300062: 28     011
+    4300064: 30     011
+    4300066: 31     011
+    4300068: 32     011
+    4300070: 33     011
+    4300072: 34     011
+    4300074: 35     011
+    4300076: 36     011
+    4300078: 37     011
+    4300080: 38     011
+    4300082: ATiles001
+    4300084: ATiles002
+    4300086: ATiles003
+    4300088: ATiles005
+    4300090: ATiles006
+    4300092: ATiles007
+    4300094: ATiles014
+    4300096: ATiles009
+    4300098: ATiles010
+    4300100: ATiles011
+    4300102: ATiles012
+    4300104: ATiles013
+    4300106: 7      011
+    4300108: 6      011
+    4300110: 4      011
+    4300112: 26     011
+    4300114: ATiles008
+    4300116: ATiles019
+    4300118: Mesh01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
