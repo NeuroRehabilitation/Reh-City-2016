@@ -1,10 +1,10 @@
-# Reh-City
+# Reh-City 2016
 .
-Repository for the development of the remake of Reh@City in virtual reality
+Repository of the Reh@City 2.0 authored by Teresa Paulino and Ana Lúcia Faria
 .
 
 .
-Currently hosted using version of Unity 5.0.0f4
+Currently hosted using version of Unity 4.6.1f6
 .
 
 .
