@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--recommended minimum number of columns: 5 -->
+<!--maximum number of columns: 9 -->
+<!--maximum number of rows: 5 -->
+<!--maximum number of targets: 4 -->
+<!--maximum number of correct choices = columns * rows -->
+<!--show correct: true or false (shows hints after timer finishes counting) -->
+<!--maximum number of time: 999 -->
+<Levels>
+<L0>
+  <Columns>4</Columns>
+  <Rows>3</Rows>
+  <Targets>8</Targets>
+  <Correctchoices>8</Correctchoices>
+  <Showcorrect>true</Showcorrect>
+  <PicTimer>0</PicTimer>
+  <Category>FashionStore</Category>
+  <UseDistractors>true</UseDistractors>
+  <ImagesToDisplay></ImagesToDisplay>
+  <UseMemory>false</UseMemory>
+  <KeepThumbnail>false</KeepThumbnail>
+  <ImageToConstruct>0</ImageToConstruct>
+  <Sequence>false</Sequence>
+</L0>
+<L1>
+  <Columns>4</Columns>
+  <Rows>2</Rows>
+  <Targets>8</Targets>
+  <Correctchoices>8</Correctchoices>
+  <Showcorrect>true</Showcorrect>
+  <PicTimer>0</PicTimer>
+  <Category>Home</Category>
+  <UseDistractors>false</UseDistractors>
+  <ImagesToDisplay>0,1,2,3,4,5</ImagesToDisplay>
+  <UseMemory>false</UseMemory>
+  <KeepThumbnail>false</KeepThumbnail>
+  <ImageToConstruct></ImageToConstruct>
+  <Sequence>true</Sequence>
+</L1>
+<L2>
+  <Columns>4</Columns>
+  <Rows>3</Rows>
+  <Targets>6</Targets><!--targets to find -->
+  <Correctchoices>12</Correctchoices><!--number of correct choices to find, always equal or bigger than targets -->
+  <Showcorrect>true</Showcorrect><!--if true, displays the correct targets at the end of level time -->
+  <PicTimer>0</PicTimer><!--time in seconds to display the targets or the imageToConstruct -->
+  <Category>Park</Category><!--folder from where the targets are chosen -->
+  <UseDistractors>false</UseDistractors><!--if true, distractors will be loaded from the distractors folder, if false, wil be loaded from the indicated category -->
+  <ImagesToDisplay></ImagesToDisplay><!--number of the images to display (loads from folder indicated in category) -->
+  <UseMemory>false</UseMemory><!--if true, targets or imageToConstruct are only displayed for certain amount of seconds -->
+  <KeepThumbnail>false</KeepThumbnail><!--if true, besides of displaying big image in the beginning it also keeps thumbnails along game -->
+  <ImageToConstruct></ImageToConstruct><!--number of the image to display (loads from folder ToConstruct) -->
+  <Sequence>false</Sequence><!--if true, targets need to be found by the order specified in imagesToDisplay -->
+  <Pairs>2</Pairs>
+</L2>
+</Levels>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Goals>
+	<FashionStore>
+		<G0>Baby Clothes</G0>
+		<G1>Footwear</G1>
+		<G2>Glasses</G2>
+		<G3>Handbags</G3>
+		<G4>Hats</G4>
+		<G5>Home Decor</G5>
+		<G6>Jewelry</G6>
+		<G7>Men Clothes</G7>
+		<G8>Parfums</G8>
+		<G9>Swimsuits</G9>
+		<G10>Underwear</G10>
+		<G11>Watches</G11>
+		<G12>Women Clothes</G12>
+	</FashionStore>
+	<Home-1>
+		<G0>Bake a cake</G0>
+		<G1>Bake cookies</G1>
+		<G2>Boil eggs</G2>
+		<G3>Cook pasta</G3>
+		<G4>Cook rice</G4>
+		<G5>Fry potatoes</G5>
+		<G6>Make candies</G6>
+	</Home-1>
+	<Home-2>
+		<G0>Order the cartoons story</G0>
+		<G1>Iron pants</G1>
+		<G2>Order the cartoons story</G2>
+		<G3>Paint an apple</G3>
+		<G4>Complete the puzzle</G4>
+		<G5>Set the table</G5>
+		<G6>Sew a button</G6>
+	</Home-2>
+	<Home-3>
+		<G0>Wash a baby</G0>
+		<G1>Clean the toilet</G1>
+		<G2>Wash the dog</G2>
+		<G3>Shave</G3>
+	</Home-3>
+</Goals>

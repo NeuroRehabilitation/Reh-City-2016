@@ -1,0 +1,783 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>	
+	<Q00>
+		<Q0T00>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, lave regularmente as mãos com sabonete.</questionPT>
+			<questionEN>To prevent colds and flu, wash your hands regularly with soap.</questionEN>
+		</Q0T00>
+		<Q1T00>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, quando tossir ou espirrar, coloque o antebraço à frente da boca.</questionPT>
+			<questionEN>To prevent colds and flu, when you cough or sneeze, place your forearm in front of your mouth.</questionEN>
+		</Q1T00>
+		<Q2T00>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, evite o contacto próximo com pessoas doentes.</questionPT>
+			<questionEN>To prevent colds and flu, avoid close contact with sick people.</questionEN>
+		</Q2T00>
+		<Q3T00>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, diminua a frequência de recintos públicos fechados.</questionPT>
+			<questionEN>To prevent colds and flu, reduce the frequency of enclosed public spaces.</questionEN>
+		</Q3T00>
+		<Q4T00>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, aumente o consumo de vitamina C.</questionPT>
+			<questionEN>To prevent colds and flu, increase your intake of vitamin C.</questionEN>
+		</Q4T00>
+		<Q5T00>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, reutilize os seus lenços de papel.</questionPT>
+			<questionEN>To prevent colds and flu, reuse your tissues.</questionEN>
+		</Q5T00>
+		<Q6T00>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, evite ventilar a sua casa.</questionPT>
+			<questionEN>To prevent colds and flu, avoid refreshing your home.</questionEN>
+		</Q6T00>
+		<Q7T00>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, não faça a vacinação anual.</questionPT>
+			<questionEN>To prevent colds and flu, do not do the annual vaccination.</questionEN>
+		</Q7T00>
+		<Q8T00>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, conviva com pessoas doentes para aumentar a sua resistência ao vírus.</questionPT>
+			<questionEN>To prevent colds and flu, coexist with sick people to increase their resistance to the virus.</questionEN>
+		</Q8T00>
+		<Q9T00>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as gripes e constipações, aumente o consumo de leite.</questionPT>
+			<questionEN>To prevent colds and flu, increase milk consumption.</questionEN>
+		</Q9T00>
+	</Q00>
+	<Q01>
+		<Q0T01>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, tire as fichas de todas as tomadas.</questionPT>
+			<questionEN>Before leaving home to travel, take out the plugs from all sockets.</questionEN>
+		</Q0T01>
+		<Q1T01>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, deixe a válvula de gás da cozinha bloqueada.</questionPT>
+			<questionEN>Before leaving the house to travel, leave the kitchen gas valve blocked.</questionEN>
+		</Q1T01>
+		<Q2T01>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, forneça o seu número de telefone e as chaves de sua casa com alguém de confiança.</questionPT>
+			<questionEN>Before leaving home to travel, provide your phone number and the keys of your house to someone you trust.</questionEN>
+		</Q2T01>
+		<Q3T01>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, retire todo o lixo de casa para não permitir a acumulação de bactérias.</questionPT>
+			<questionEN>Before leaving home to travel, remove all household trash to prevent bacteria from accumulating.</questionEN>
+		</Q3T01>
+		<Q4T01>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, verifique se todas as portas e janelas estão bem fechadas.</questionPT>
+			<questionEN>Before leaving home for travel, make sure all doors and windows are securely locked.</questionEN>
+		</Q4T01>
+		<Q5T01>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, não avise os vizinhos e amigos próximos.</questionPT>
+			<questionEN>Before leaving the house to travel, do not warn neighbors and close friends.</questionEN>
+		</Q5T01>
+		<Q6T01>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, deixe os seus eletrodomésticos ligados à tomada.</questionPT>
+			<questionEN>Before you leave the house for travel, leave your appliances plugged in.</questionEN>
+		</Q6T01>
+		<Q7T01>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, não deixe a sua chave de casa com ninguém.</questionPT>
+			<questionEN>Before leaving home to travel, do not leave your house key with anyone.</questionEN>
+		</Q7T01>
+		<Q8T01>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, deixe uma luz acesa para que os outros pensem que está em casa.</questionPT>
+			<questionEN>Before you leave the house for travel, leave a light on so that others think you are at home.</questionEN>
+		</Q8T01>
+		<Q9T01>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Antes de sair de casa para viajar, não forneça o seu número de telefone a ninguém.</questionPT>
+			<questionEN>Before leaving home to travel, do not give your phone number to anyone.</questionEN>
+		</Q9T01>
+	</Q01>
+	<Q02>
+		<Q0T02>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Uma alimentação equilibrada inclui alimentos de todos os grupos, para fornecer todos os nutrientes necessários. </questionPT>
+			<questionEN>A balanced diet includes foods from all groups, to provide all the necessary nutrients.</questionEN>
+		</Q0T02>
+		<Q1T02>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Não existe um alimento único que seja capaz de fornecer todos os nutrientes necessários.</questionPT>
+			<questionEN>There is no single food that is able to provide all the necessary nutrients.</questionEN>
+		</Q1T02>
+		<Q2T02>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Uma alimentação variada inclui alimentos de todos os grupos alimentares.</questionPT>
+			<questionEN>A varied diet includes foods from all food groups.</questionEN>
+		</Q2T02>
+		<Q3T02>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A seleção cuidada de alimentos ajuda no controlo de calorias, gorduras saturadas, colesterol, sal e açúcar.</questionPT>
+			<questionEN>Careful selection of foods helps control calories, saturated fats, cholesterol, salt, and sugar.</questionEN>
+		</Q3T02>
+		<Q4T02>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>As três regras principais de uma boa alimentação são: equilíbrio, variedade e moderação.</questionPT>
+			<questionEN>The three main rules of good nutrition are: balance, variety and moderation.</questionEN>
+		</Q4T02>
+		<Q5T02>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Não devemos controlar o consumo de gorduras saturadas, colesterol, sal e açúcar.</questionPT>
+			<questionEN>We should not control the consumption of saturated fats, cholesterol, salt and sugar.</questionEN>
+		</Q5T02>
+		<Q6T02>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A seleção cuidada de alimentos não ajuda no controlo de calorias.</questionPT>
+			<questionEN>Careful selection of food does not help in controlling calories.</questionEN>
+		</Q6T02>
+		<Q7T02>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Existem alguns alimentos que são capazes de fornecer todos os nutrientes necessários.</questionPT>
+			<questionEN>There are some foods that are able to provide all the necessary nutrients.</questionEN>
+		</Q7T02>
+		<Q8T02>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Uma alimentação variada inclui alimentos de pelo menos três grupos alimentares.</questionPT>
+			<questionEN>A varied diet includes foods from at least three food groups.</questionEN>
+		</Q8T02>
+		<Q9T02>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>As três regras principais de uma boa alimentação são: simplicidade, variedade e abundância.</questionPT>
+			<questionEN>The three main rules of good eating are simplicity, variety and abundance.</questionEN>
+		</Q9T02>
+	</Q02>
+	<Q03>
+		<Q0T03>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A prática regular de atividade física, melhora a função cardiovascular e respiratória.</questionPT>
+			<questionEN>Regular practice of physical activity improves cardiovascular and respiratory function.</questionEN>
+		</Q0T03>
+		<Q1T03>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A prática regular de atividade física, diminui a incidência de cancro do cólon e diabetes tipo 2.</questionPT>
+			<questionEN>Regular practice of physical activity decreases the incidence of colon cancer and type 2 diabetes.</questionEN>
+		</Q1T03>
+		<Q2T03>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A prática regular de atividade física, diminui a massa gorda e aumenta a massa muscular.</questionPT>
+			<questionEN>Regular practice of physical activity, decreases fat mass and increases muscle mass.</questionEN>
+		</Q2T03>
+		<Q3T03>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A prática regular de atividade física, aumenta a massa óssea e previne a sua perda.</questionPT>
+			<questionEN>Regular practice of physical activity increases bone mass and prevents its loss.</questionEN>
+		</Q3T03>
+		<Q4T03>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A prática regular de atividade física, melhora a função imunitária.</questionPT>
+			<questionEN>Regular practice of physical activity improves immune function.</questionEN>
+		</Q4T03>
+		<Q5T03>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A prática regular de atividade física, acelera certos processos do envelhecimento.</questionPT>
+			<questionEN>Regular practice of physical activity speeds up certain processes of aging.</questionEN>
+		</Q5T03>
+		<Q6T03>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A prática regular de atividade física, diminui a sensação de bem-estar e a auto-estima.</questionPT>
+			<questionEN>Regular practice of physical activity decreases feelings of well-being and self-esteem.</questionEN>
+		</Q6T03>
+		<Q7T03>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A prática regular de atividade física, pode agravar estados de depressão e ansiedade.</questionPT>
+			<questionEN>Regular practice of physical activity can worsen states of depression and anxiety.</questionEN>
+		</Q7T03>
+		<Q8T03>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A prática regular de atividade física, diminui a massa óssea.</questionPT>
+			<questionEN>Regular practice of physical activity decreases bone mass.</questionEN>
+		</Q8T03>
+		<Q9T03>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A prática regular de atividade física, diminui a função cardiovascular e respiratória.</questionPT>
+			<questionEN>Regular practice of physical activity decreases cardiovascular and respiratory function.</questionEN>
+		</Q9T03>
+	</Q03>
+	<Q04>
+		<Q0T04>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as cáries, escove os dentes duas vezes por dia.</questionPT>
+			<questionEN>To prevent cavities, brush your teeth twice a day.</questionEN>
+		</Q0T04>
+		<Q1T04>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as cáries, utilize uma pasta de dentes que contenha flúor.</questionPT>
+			<questionEN>To prevent cavities, use a toothpaste that contains fluoride.</questionEN>
+		</Q1T04>
+		<Q2T04>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as cáries, substitua a sua escova de dentes de três em três meses ou quando ela estiver gasta.</questionPT>
+			<questionEN>To prevent cavities, replace your toothbrush every three months or when it is worn.</questionEN>
+		</Q2T04>
+		<Q3T04>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as cáries, limpe os espaços interdentários todos os dias com um fio dental.</questionPT>
+			<questionEN>To prevent cavities, clean the interdental spaces every day with a dental floss.</questionEN>
+		</Q3T04>
+		<Q4T04>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para prevenir as cáries, siga uma alimentação saudável.</questionPT>
+			<questionEN>To prevent cavities, follow a healthy diet.</questionEN>
+		</Q4T04>
+		<Q5T04>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as cáries, escove os dentes uma vez por dia.</questionPT>
+			<questionEN>To prevent cavities, brush your teeth once a day.</questionEN>
+		</Q5T04>
+		<Q6T04>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as cáries, substitua a sua escova de dentes anualmente.</questionPT>
+			<questionEN>To prevent cavities, replace your toothbrush annually.</questionEN>
+		</Q6T04>
+		<Q7T04>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as cáries, beba refrigerantes e coma doces.</questionPT>
+			<questionEN>To prevent cavities, drink soft drinks and eat sweets.</questionEN>
+		</Q7T04>
+		<Q8T04>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as cáries, marque consultas de dois em dois anos no dentista.</questionPT>
+			<questionEN>To prevent cavities, make appointments every two years at the dentist.</questionEN>
+		</Q8T04>
+		<Q9T04>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para prevenir as cáries, evite utilizar fio dental.</questionPT>
+			<questionEN>To prevent cavities, avoid flossing.</questionEN>
+		</Q9T04>
+	</Q04>
+	<Q05>
+		<Q0T05>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Níveis baixos de vitamina B12 estão associados a uma maior probabilidade de desenvolvimento de problemas cognitivos.</questionPT>
+			<questionEN>Low levels of vitamin B12 are associated with a higher likelihood of developing cognitive problems.</questionEN>
+		</Q0T05>
+		<Q1T05>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A capacidade do nosso organismo absorver vitamina B12 dos alimentos diminui na vida adulta.</questionPT>
+			<questionEN>The ability of our body to absorb vitamin B12 from food decreases in adult life.</questionEN>
+		</Q1T05>
+		<Q2T05>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A vitamina B12 previne doenças neurológicas, como a doença de Alzheimer.</questionPT>
+			<questionEN>Vitamin B12 prevents neurological diseases such as Alzheimer's disease.</questionEN>
+		</Q2T05>
+		<Q3T05>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A vitamina B12 está presente em alimentos como peixes, ovos, lacticínios, grãos e cereais.</questionPT>
+			<questionEN>Vitamin B12 is present in foods like fish, eggs, dairy products, grains and cereals.</questionEN>
+		</Q3T05>
+		<Q4T05>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A dose diária recomendada de vitamina B12 é de 2 mg para adultos.</questionPT>
+			<questionEN>The recommended daily dose of vitamin B12 is 2 mg for adults.</questionEN>
+		</Q4T05>
+		<Q5T05>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Níveis baixos de vitamina B12 estão associados a uma maior probabilidade de desenvolvimento de problemas cardíacos.</questionPT>
+			<questionEN>Low levels of vitamin B12 are associated with a higher likelihood of developing heart problems.</questionEN>
+		</Q5T05>
+		<Q6T05>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A capacidade do nosso organismo absorver vitamina B12 dos alimentos aumenta na vida adulta.</questionPT>
+			<questionEN>The ability of our body to absorb vitamin B12 from food increases in adult life.</questionEN>
+		</Q6T05>
+		<Q7T05>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A vitamina B12 está presente em alimentos como peixes, ovos, lacticínios e vegetais.</questionPT>
+			<questionEN>Vitamin B12 is present in foods like fish, eggs, dairy and vegetables.</questionEN>
+		</Q7T05>
+		<Q8T05>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A dose diária recomendada de vitamina B12 é de 2,1 mg para adultos.</questionPT>
+			<questionEN>The recommended daily dose of vitamin B12 is 2.1 mg for adults.</questionEN>
+		</Q8T05>
+		<Q9T05>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A vitamina B12 contribui para doenças neurológicas, como a doença de Alzheimer.</questionPT>
+			<questionEN>Vitamin B12 contributes to neurological diseases, such as Alzheimer's disease.</questionEN>
+		</Q9T05>
+	</Q05>
+	<Q06>
+		<Q0T06>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para a confecção do Bolo de Chocolate na caneca é necesário 2 colheres de sopa de óleo.</questionPT>
+			<questionEN>For the preparation of the Chocolate Cake in the mug it is necessary 2 tablespoons of oil.</questionEN>
+		</Q0T06>
+		<Q1T06>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>O Bolo de Chocolate na Caneca leva 2 colheres de sopa de leite.</questionPT>
+			<questionEN>The Chocolate Cake in the mug takes 2 tablespoons of milk.</questionEN>
+		</Q1T06>
+		<Q2T06>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>O tempo de cozedura do Bolo de Chocolate na Caneca é 3 minutos no microondas.</questionPT>
+			<questionEN>The cooking time of the Chocolate Cake in the Mug is 3 minutes in the microwave.</questionEN>
+		</Q2T06>
+		<Q3T06>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A confeção do Bolo de Chocolate na Caneca começa por juntar a farinha, com o açúcar e o chocolate em pó.</questionPT>
+			<questionEN>The preparation of the Chocolate Cake in the mug begins by adding the flour, with the sugar and the chocolate powder.</questionEN>
+		</Q3T06>
+		<Q4T06>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A potência do microondas deverá ser 1000 watts para cozer o Bolo de Chocolate na caneca.</questionPT>
+			<questionEN>The power of the microwave should be 1000 watts to bake the Chocolate Cake in the mug.</questionEN>
+		</Q4T06>
+		<Q5T06>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para a confecção do Bolo de Chocolate na caneca é necessário 2 colheres de sobremesa de óleo.</questionPT>
+			<questionEN>For the preparation of the Chocolate Cake in the mug it is necessary 2 dessert tablespoons of oil.</questionEN>
+		</Q5T06>
+		<Q6T06>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>O Bolo de Chocolate na caneca não leva qualquer tipo de lacticínio.</questionPT>
+			<questionEN>The Chocolate Cake in the mug does not need any kind of milk.</questionEN>
+		</Q6T06>
+		<Q7T06>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>O tempo de cozedura do Bolo de Chocolate na Caneca é 3 minutos no forno.</questionPT>
+			<questionEN>The cooking time of the Chocolate Cake in the mug is 3 minutes in the oven.</questionEN>
+		</Q7T06>
+		<Q8T06>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A confeção do Bolo de Chocolate na Caneca começa por juntar o leite, o óleo e o chocolate em pó.</questionPT>
+			<questionEN>The preparation of the Chocolate Cake in the mug begins with mixing the milk, the oil and the chocolate powder.</questionEN>
+		</Q8T06>
+		<Q9T06>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A potência do microondas para cozer o Bolo de Chocolate na Caneca deverá ser 100 watts.</questionPT>
+			<questionEN>The power of the microwave to bake the Chocolate Cake in the mug should be 100 watts.</questionEN>
+		</Q9T06>
+	</Q06>
+	<Q07>
+		<Q0T07>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Na receita de arroz em 5 minutos a quantidade de água é 2 vezes a medida de arroz.</questionPT>
+			<questionEN>In the 5 minutes rice recipe the water quantity is 2 times the rice measure.</questionEN>
+		</Q0T07>
+		<Q1T07>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Na receita de arroz em 5 minutos a cebola é picada.</questionPT>
+			<questionEN>In the 5 minutes rice recipe the onion is chopped.</questionEN>
+		</Q1T07>
+		<Q2T07>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Na receita de arroz em 5 minutos, o arroz deve fritar por 2 minutos.</questionPT>
+			<questionEN>In the 5 minutes rice recipe, the rice should fry for 2 minutes.</questionEN>
+		</Q2T07>
+		<Q3T07>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Na receita de arroz em 5 minutos, o arroz deverá cozer durante 3 minutos.</questionPT>
+			<questionEN>In the 5 minutes rice recipe,.</questionEN>
+		</Q3T07>
+		<Q4T07>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A receita de arroz em 5 minutos leva 1 dente de alho.</questionPT>
+			<questionEN>The 5 minutes rice recipe needs 1 garlic clove.</questionEN>
+		</Q4T07>
+		<Q5T07>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Na receita de Arroz em 5 minutos, a quantidade de água é 4 vezes a medida de arroz.</questionPT>
+			<questionEN>In the 5 minutes rice recipe, the water quantity is 4 times the measure of rice.</questionEN>
+		</Q5T07>
+		<Q6T07>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Na receita de arroz em 5 minutos é usada a cebola é inteira.</questionPT>
+			<questionEN>In the 5 minutes rice recipe, the whole onion is used.</questionEN>
+		</Q6T07>
+		<Q7T07>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Na receita de arroz em 5 minutos, o arroz deve fritar por 1 minuto.</questionPT>
+			<questionEN>In the 5 minutes rice recipe, the rice should fry for 1 minute.</questionEN>
+		</Q7T07>
+		<Q8T07>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Na receita de arroz em 5 minutos, o arroz deverá cozer durante 5 minutos.</questionPT>
+			<questionEN>In the 5 minutes rice recipe, the rice should cook for 5 minutes.</questionEN>
+		</Q8T07>
+		<Q9T07>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A receita de arroz em 5 minutos leva 2 dente de alho.</questionPT>
+			<questionEN>The 5 minutes rice recipe needs 2 garlic cloves.</questionEN>
+		</Q9T07>
+	</Q07>
+	<Q08>
+		<Q0T08>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para fazer puré de batata caseiro são necessárias 7 batatas médias.</questionPT>
+			<questionEN>To make homemade mashed potatoes you need 7 medium potatoes.</questionEN>
+		</Q0T08>
+		<Q1T08>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A receita de puré de batata caseiro leva uma pitada de pimenta branca.</questionPT>
+			<questionEN>The recipe for homemade mashed potatoes needs a pinch of white pepper.</questionEN>
+		</Q1T08>
+		<Q2T08>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Na receita de puré de batata caseiro, as batatas são cozidas sem a casca, entre 10 a 15 minutos.</questionPT>
+			<questionEN>In the recipe for homemade mashed potatoes, the potatoes are cooked without the peel, between 10 to 15 minutes.</questionEN>
+		</Q2T08>
+		<Q3T08>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A receita de puré de batata caseiro leva uma caneca de leite quente.</questionPT>
+			<questionEN>The recipe for homemade mashed potatoes needs a pint of hot milk.</questionEN>
+		</Q3T08>
+		<Q4T08>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A receita de puré de batata caseiro leva uma colher de sobremesa de manteiga.</questionPT>
+			<questionEN>The recipe for homemade mashed potatoes takes a dessert tablespoon of butter.</questionEN>
+		</Q4T08>
+		<Q5T08>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para fazer puré de batata caseiro são necessárias 7 batatas grandes.</questionPT>
+			<questionEN>To make homemade mashed potatoes you need 7 large potatoes.</questionEN>
+		</Q5T08>
+		<Q6T08>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A receita de puré de batata caseiro leva uma pitada de pimenta preta.</questionPT>
+			<questionEN>The recipe for homemade mashed potatoes needs a pinch of black pepper.</questionEN>
+		</Q6T08>
+		<Q7T08>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Na receita de puré de batata caseiro as batatas são cozidas com casca, entre 10 a 15 minutos.</questionPT>
+			<questionEN>In the recipe for homemade mashed potatoes the potatoes are cooked with the peel, between 10 to 15 minutes.</questionEN>
+		</Q7T08>
+		<Q8T08>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A receita de puré de batata caseiro leva uma caneca de leite frio.</questionPT>
+			<questionEN>The recipe for homemade mashed potatoes needs a pint of cold milk.</questionEN>
+		</Q8T08>
+		<Q9T08>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A receita de puré de batata caseiro leva uma colher de sopa de manteiga.</questionPT>
+			<questionEN>The recipe for homemade mashed potatoes takes a tablespoon of butter.</questionEN>
+		</Q9T08>
+	</Q08>
+	<Q09>
+		<Q0T09>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A laranja combate a prisão de ventre.</questionPT>
+			<questionEN>Orange prevents constipation.</questionEN>
+		</Q0T09>
+		<Q1T09>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A laranja aumenta os glóbulos brancos do sangue.</questionPT>
+			<questionEN>Orange increases the white blood cells.</questionEN>
+		</Q1T09>
+		<Q2T09>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A laranja melhora a circulação sanguínea, inibindo a formação de coágulos em excesso no sangue.</questionPT>
+			<questionEN>Orange improves blood circulation by inhibiting the formation of excess blood clots.</questionEN>
+		</Q2T09>
+		<Q3T09>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A laranja previne o aparecimento de crises alérgicas, como rinite e asma.</questionPT>
+			<questionEN>Orange prevents the onset of allergic crises such as rhinitis and asthma.</questionEN>
+		</Q3T09>
+		<Q4T09>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A laranja dificulta o desenvolvimento de vírus no organismo.</questionPT>
+			<questionEN>Orange hinders the development of viruses in the body.</questionEN>
+		</Q4T09>
+		<Q5T09>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A laranja contribui para a prisão de ventre.</questionPT>
+			<questionEN>Orange contributes to constipation.</questionEN>
+		</Q5T09>
+		<Q6T09>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A laranja aumenta os glóbulos vermelhos do sangue.</questionPT>
+			<questionEN>Orange increases red blood cells.</questionEN>
+		</Q6T09>
+		<Q7T09>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A laranja melhora a circulação sanguínea, inibindo a formação de coágulos em excesso no sangue.</questionPT>
+			<questionEN>Orange improves blood circulation by inhibiting the formation of excess blood clots.</questionEN>
+		</Q7T09>
+		<Q8T09>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A laranja previne o aparecimento de crises alérgicas, como gripe e asma.</questionPT>
+			<questionEN>Orange prevents the onset of allergic crises such as influenza and asthma.</questionEN>
+		</Q8T09>
+		<Q9T09>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A laranja facilita o desenvolvimento de vírus no organismo.</questionPT>
+			<questionEN>Orange facilitates the development of viruses in the body.</questionEN>
+		</Q9T09>
+	</Q09>
+	<Q10>
+		<Q0T10>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para cultivar ervas de chá é importante um local com sol e sombra e um solo fértil e húmido.</questionPT>
+			<questionEN>To grow tea herbs is important to have place with sun and shade plus a fertile and humid soil.</questionEN>
+		</Q0T10>
+		<Q1T10>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>É possível plantar ervas de chá no jardim ou em vasos.</questionPT>
+			<questionEN>It is possible to plant tea herbs in the garden or in pots.</questionEN>
+		</Q1T10>
+		<Q2T10>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>As plantas para fazer chá devem receber bastante sol no período da manhã e sombra durante a tarde.</questionPT>
+			<questionEN>Tea plants should receive plenty of sunshine in the morning and shade during the afternoon.</questionEN>
+		</Q2T10>
+		<Q3T10>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>O jardim onde estão cultivadas as plantas para fazer chá deverá ser adubado uma vez por ano.</questionPT>
+			<questionEN>The garden where tea plants are grown should be fertilized once a year.</questionEN>
+		</Q3T10>
+		<Q4T10>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>As folhas da planta para fazer chá devem ser recolhidas aproximadamente cinco meses depois de terem sido plantadas.</questionPT>
+			<questionEN>Tea leaves should be collected approximately five months after they have been planted.</questionEN>
+		</Q4T10>
+		<Q5T10>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para cultivar ervas de chá é importante um local com sol e sombra e um solo fértil e seco.</questionPT>
+			<questionEN>To grow tea herbs is important a place with sun and shade and a fertile and dry soil.</questionEN>
+		</Q5T10>
+		<Q6T10>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>É possível plantar as ervas de chá apenas no jardim.</questionPT>
+			<questionEN>It is possible to plant the herbs only in the garden.</questionEN>
+		</Q6T10>
+		<Q7T10>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>As plantas para fazer chá devem estar na sombra durante a manhã e receber bastante sol no período da tarde.</questionPT>
+			<questionEN>Tea plants should be in the shade in the morning and get plenty of sunshine in the afternoon.</questionEN>
+		</Q7T10>
+		<Q8T10>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>O jardim onde estão cultivadas as plantas para fazer chá deverá ser adubado duas vezes por ano.</questionPT>
+			<questionEN>The garden where tea plants are grown should be fertilized twice a year.</questionEN>
+		</Q8T10>
+		<Q9T10>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A recolha das folhas da planta para fazer chá devem ser recolhidas aproximadamente quatro meses depois de terem sido plantadas.</questionPT>
+			<questionEN>The collection of tea leaves should be collected approximately four months after they have been planted.</questionEN>
+		</Q9T10>
+	</Q10>
+	<Q11>
+		<Q0T11>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>As intolerâncias alimentares são uma reacção adversa do organismo a alimentos causadas por mecanismos não imunológicos.</questionPT>
+			<questionEN>Food intolerances are an adverse reaction of the body to foods caused by non-immune mechanisms.</questionEN>
+		</Q0T11>
+		<Q1T11>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Os sintomas das intolerâncias alimentares podem incluir distúrbios gastrointestinais, cutâneos e respiratórios.</questionPT>
+			<questionEN>Symptoms of food intolerances may include gastrointestinal, cutaneous, and respiratory disorders.</questionEN>
+		</Q1T11>
+		<Q2T11>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>As intolerâncias alimentares podem surgir por defeitos raros congénitos, formas generalizadas secundárias a doenças ou de forma geneticamente adquirida.</questionPT>
+			<questionEN>Food intolerances may arise from rare congenital defects, generalized forms secondary to disease or genetically acquired form.</questionEN>
+		</Q2T11>
+		<Q3T11>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>As intolerâncias alimentares e as alergias alimentares são processos diferentes.</questionPT>
+			<questionEN>Food intolerances and food allergies are different processes.</questionEN>
+		</Q3T11>
+		<Q4T11>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Às intolerâncias alimentares está associada uma deficiência ou diminuição da actividade enzimática, que impede a sua metabolização eficaz.</questionPT>
+			<questionEN>Food intolerance is associated with a deficiency or a decrease in enzyme activity, which impedes its effective metabolization.</questionEN>
+		</Q4T11>
+		<Q5T11>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>As intolerâncias alimentares são uma reacção inversa do organismo a alimentos causadas por mecanismos imunológicos.</questionPT>
+			<questionEN>Food intolerances are an inverse reaction of the organism to foods caused by immunological mechanisms.</questionEN>
+		</Q5T11>
+		<Q6T11>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Os sintomas das intolerâncias alimentares podem incluir distúrbios gastrointestinais, cardíacos e físicos.</questionPT>
+			<questionEN>Symptoms of food intolerances may include gastrointestinal, cardiac, and physical disorders.</questionEN>
+		</Q6T11>
+		<Q7T11>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>As intolerâncias alimentares podem surgir por defeitos raros não congénitos, formas generalizadas secundárias a doenças ou de forma geneticamente adquirida.</questionPT>
+			<questionEN>Food intolerances may arise from rare non-congenital defects, generalized forms secondary to disease or genetically acquired form.</questionEN>
+		</Q7T11>
+		<Q8T11>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>As intolerâncias alimentares e as alergias alimentares são processos iguais.</questionPT>
+			<questionEN>Food intolerances and food allergies are the same.</questionEN>
+		</Q8T11>
+		<Q9T11>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Às intolerâncias alimentares está associada uma deficiência ou aumento da actividade enzimática, que impede a sua metabolização eficaz.</questionPT>
+			<questionEN>A food deficiency or increase in enzyme activity is associated with food intolerance, which impedes its effective metabolization.</questionEN>
+		</Q9T11>
+	</Q11>
+	<Q12>
+		<Q0T12>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Antes de começar a limpeza de um sofá, é necessário retirar o excesso de sujidade com o auxílio de um aspirador.</questionPT>
+			<questionEN>Before cleaning a sofa, it is necessary to remove excess dirt with the aid of a vacuum cleaner.</questionEN>
+		</Q0T12>
+		<Q1T12>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para preparar a primeira mistura caseira de limpeza de sofás é necessário sabão líquido de côco e água.</questionPT>
+			<questionEN>To prepare the first home-made cleaning mix for sofas you need liquid coconut soap and water.</questionEN>
+		</Q1T12>
+		<Q2T12>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para a primeira parte do processo de limpeza de um sofá é necessária uma escova.</questionPT>
+			<questionEN>For the first part of the process of cleaning a sofa a brush is needed.</questionEN>
+		</Q2T12>
+		<Q3T12>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para a segunda mistura caseira de limpeza de sofás é necessário amaciador para roupas, água e álcool.</questionPT>
+			<questionEN>For the second home-made cleaning of sofas, fabric softener is required for clothing, water and alcohol.</questionEN>
+		</Q3T12>
+		<Q4T12>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>O último passo do processo de limpeza de um sofá consiste em passar um pano limpo e seco por todo o móvel.</questionPT>
+			<questionEN>The last step in the process of cleaning a sofa is to wipe the furniture with a clean dry cloth.</questionEN>
+		</Q4T12>
+		<Q5T12>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Antes de começar a limpeza de um sofá, é necessário retirar o excesso de sujidade com o auxílio de uma vassoura.</questionPT>
+			<questionEN>Before cleaning a sofa, it is necessary to remove the excess of dirt with the aid of a broom.</questionEN>
+		</Q5T12>
+		<Q6T12>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para a primeira mistura caseira de limpeza de sofás é necessário sabão líquido de aloé vera e água.</questionPT>
+			<questionEN>For the first home-made cleaning of sofas you need aloe vera liquid soap and water.</questionEN>
+		</Q6T12>
+		<Q7T12>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para a primeira parte do processo de limpeza de um sofá é necessário uma escova de dentes.</questionPT>
+			<questionEN>For the first part of the process of cleaning a sofa you need a toothbrush.</questionEN>
+		</Q7T12>
+		<Q8T12>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para a segunda mistura caseira de limpeza de sofás é necessário água e óleo.</questionPT>
+			<questionEN>For the second home-made sofa cleaning mix water and oil is required.</questionEN>
+		</Q8T12>
+		<Q9T12>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>O último passo do processo de limpeza de um sofá consiste em passar um pano limpo e húmido.</questionPT>
+			<questionEN>The last step in the process of cleaning a sofa is to wipe it with a clean and humid cloth.</questionEN>
+		</Q9T12>
+	</Q12>
+	<Q13>
+		<Q0T13>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para fazer detergente ecológico é necessário um balde com 5 litros de água.</questionPT>
+			<questionEN>To make ecological detergent you need a bucket with 5 liters of water.</questionEN>
+		</Q0T13>
+		<Q1T13>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para fazer detergente ecológico, é utilizado apenas o sumo dos limões.</questionPT>
+			<questionEN>To make ecological detergent only the juice of lemon is used.</questionEN>
+		</Q1T13>
+		<Q2T13>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Na receita de detergente ecológico, é aconselhada a utilização de amoníaco biodegradável.</questionPT>
+			<questionEN>In the recipe for ecological detergent, the use of biodegradable ammonia is recommended.</questionEN>
+		</Q2T13>
+		<Q3T13>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>É necessário cuidado no manuseamento do amoníaco para evitar o contacto deste com o corpo.</questionPT>
+			<questionEN>Care must be taken when handling ammonia to avoid contact with the body.</questionEN>
+		</Q3T13>
+		<Q4T13>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Para a receita de detergente ecológico é necessária uma barra de sabão de côco neutro.</questionPT>
+			<questionEN>For the ecological detergent recipe a bar of neutral coconut soap is required.</questionEN>
+		</Q4T13>
+		<Q5T13>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para fazer detergente ecológico é necessário um balde com 7 litros de água.</questionPT>
+			<questionEN>To make ecological detergent you need a bucket with 7 liters of water.</questionEN>
+		</Q5T13>
+		<Q6T13>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para fazer detergente ecológico são utilizados os limões inteiros.</questionPT>
+			<questionEN>To make ecological detergent the whole lemons are used.</questionEN>
+		</Q6T13>
+		<Q7T13>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Na receita de detergente ecológico não é aconselhada a utilização de amoníaco biodegradável.</questionPT>
+			<questionEN>The use of biodegradable ammonia is not recommended for ecological detergent.</questionEN>
+		</Q7T13>
+		<Q8T13>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Não é necessário cuidado no manuseamento do amoníaco.</questionPT>
+			<questionEN>No care is required in the handling of ammonia.</questionEN>
+		</Q8T13>
+		<Q9T13>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Para a receita de detergente ecológico é necessária uma barra e meia de sabão de côco neutro.</questionPT>
+			<questionEN>For the ecological detergent recipe you need a bar and a half of neutral coconut soap.</questionEN>
+		</Q9T13>
+	</Q13>
+	<Q14>
+		<Q0T14>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A quantidade de lactose que o organismo consegue metabolizar é cerca de 12 g, quantidade encontrada em 240 ml de leite.</questionPT>
+			<questionEN>The amount of lactose that the body can metabolize is about 12 g, the amount found in 240 ml of milk.</questionEN>
+		</Q0T14>
+		<Q1T14>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Alguns dos sintomas da intolerância à lactose são dores abdominais, flatulência, náuseas e diarreia.</questionPT>
+			<questionEN>Some of the symptoms of lactose intolerance are abdominal pain, flatulence, nausea and diarrhea.</questionEN>
+		</Q1T14>
+		<Q2T14>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>É possivel substituir a ingestão de leite e seus derivados por leite sem lactose e por bebidas e produtos à base de soja.</questionPT>
+			<questionEN>It is possible to replace the intake of milk and its derivatives by milk without lactose and by beverages and soy products.</questionEN>
+		</Q2T14>
+		<Q3T14>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>Estima-se que cerca de 70% dos adultos do mundo sejam incapazes de digerir a lactose.</questionPT>
+			<questionEN>It is estimated that about 70% of the world's adults are unable to digest lactose.</questionEN>
+		</Q3T14>
+		<Q4T14>
+			<questionSubject>text-long-true</questionSubject>
+			<questionPT>A maioria das pessoas intolerantes à lactose é capaz de digerir o leite apenas em quantidades pequenas e moderadas.</questionPT>
+			<questionEN>Most people who are intolerant to lactose are able to digest milk only in small and moderate amounts.</questionEN>
+		</Q4T14>
+		<Q5T14>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A quantidade de lactose que o organismo consegue metabolizar é cerca de 14g, quantidade encontrada em 250 ml de leite.</questionPT>
+			<questionEN>The amount of lactose that the body is able to metabolize is about 14 g, the amount found in 250 ml of milk.</questionEN>
+		</Q5T14>
+		<Q6T14>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Alguns dos sintomas da intolerância à lactose são dores abdominais, flatulência, náuseas e prisão de ventre.</questionPT>
+			<questionEN>Some of the symptoms of lactose intolerance are abdominal pain, flatulence, nausea, and constipation.</questionEN>
+		</Q6T14>
+		<Q7T14>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Não é aconselhado substituir a ingestão de leite e seus derivados por leite sem lactose e por bebidas e produtos à base de soja.</questionPT>
+			<questionEN>It is not recommended to replace the intake of milk and its derivatives by lactose-free milk and by beverages and soy products.</questionEN>
+		</Q7T14>
+		<Q8T14>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>Estima-se que cerca de 60% dos adultos do mundo sejam incapazes de digerir a lactose.</questionPT>
+			<questionEN>It is estimated that about 60% of the world's adults are unable to digest lactose.</questionEN>
+		</Q8T14>
+		<Q9T14>
+			<questionSubject>text-long-false</questionSubject>
+			<questionPT>A maioria das pessoas intolerantes à lactose não é capaz de digerir o leite em quantidades pequenas e moderadas.</questionPT>
+			<questionEN>Most people with lactose intolerance are not able to digest milk in small and moderate amounts.</questionEN>
+		</Q9T14>
+	</Q14>
+</Questions>

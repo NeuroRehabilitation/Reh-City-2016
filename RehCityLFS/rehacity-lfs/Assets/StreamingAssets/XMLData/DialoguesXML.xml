@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<Dialogues>
+  <English>
+    <EnterRoom>
+      <SuperMarket>
+        Welcome to the Supermarket
+        <Milk>milk pack</Milk>
+        <Juice>juice</Juice>
+        <Bread>bread</Bread>
+        <Water>water bottle</Water>
+        <Apple>apple</Apple>
+        <Orange>orange</Orange>
+        <Nutella>Nutella</Nutella>
+        <Shampoo>shampoo</Shampoo>
+        <Coffee>coffee pack</Coffee>
+        <Sauce>tomato paste</Sauce>
+        <Yogurt>yogurt</Yogurt>
+        <Butter>butter</Butter>
+        <Kellogs>cereals pack</Kellogs>
+        <Coke>Coke</Coke>
+        <Pasta>pasta pack</Pasta>
+        <OliveOil>olive oil</OliveOil>
+        <Chocapic>chocolate cereals pack</Chocapic>
+      </SuperMarket>
+      <Pharmacy>
+        Welcome to the Pharmacy
+        <Cream>Voltaren</Cream>
+        <Syrup>syrup</Syrup>
+        <Bandaid>band aid pack</Bandaid>
+        <Aspirin>Aspirin</Aspirin>
+        <Betadin>Betadine</Betadin>
+        <Sunscreen>sun screen</Sunscreen>
+        <Benuron>Ben-u-ron</Benuron>
+        <Brufen>Brufen</Brufen>
+      </Pharmacy>
+      <PostOffice>
+        Welcome to the Post Office
+        <Stamp>Stamp</Stamp>
+        <Letter>Envelope</Letter>
+        <Package>Package</Package>
+        <ChildrenBook>Children Book</ChildrenBook>
+        <AdultBook>Adult Book</AdultBook>
+        <Postcard>Postcard</Postcard>
+        <CDsBox>CD's Pack</CDsBox>
+        <Lottery>Lottery ticket</Lottery>
+      </PostOffice>
+      <Bank>
+        Welcome to the Bank
+        <WithDraw>Withdraw</WithDraw>
+        <Consults>Consults</Consults>
+        <Payments>
+          <PaymentsText>Payments</PaymentsText>
+          <Electricity>Electricity</Electricity>
+          <Water>Water</Water>
+          <Telephone>Telephone</Telephone>
+        </Payments>
+        <Services>Services</Services>
+        <Back>Back</Back>
+        <Quit>Quit</Quit>
+      </Bank>
+      <Home>
+        Welcome Home
+        <Category>Select the images that belong to the indicated Category</Category>
+      </Home>
+      <FashionStore>
+        Welcome to the Fashion Store
+        <Sequence>Indicate the order in which the steps need to be executed</Sequence>
+      </FashionStore>
+      <Kiosk>
+        Welcome to the magazines kiosk
+      </Kiosk>
+      <Park>
+        Welcome to the Park
+        <Pairs>Match equal images</Pairs>
+      </Park>
+    </EnterRoom>
+    <Objective>
+      <WellDoneText>Well done.You have earned +10 Points</WellDoneText>
+      <Score>Points: </Score>
+      <LevelUp>Well done. Level Complete!</LevelUp>
+    </Objective>
+    <PluralOfItems>
+      <SuperMarket>
+        <Milk>milk packs</Milk>
+        <Juice>juices</Juice>
+        <Bread>breads</Bread>
+        <Water>water bottles</Water>
+        <Apple>apples</Apple>
+        <Orange>oranges</Orange>
+        <Nutella>Nutellas</Nutella>
+        <Shampoo>shampoos</Shampoo>
+        <Coffee>coffee packs</Coffee>
+        <Sauce>tomato paste jars</Sauce>
+        <Yogurt>yogurts</Yogurt>
+        <Butter>butters</Butter>
+        <Kellogs>cereals packs</Kellogs>
+        <Coke>Cokes</Coke>
+        <Pasta>pasta packs</Pasta>
+        <OliveOil>olive oil bottles</OliveOil>
+        <Chocapic>chocolate cereals packs</Chocapic>
+      </SuperMarket>
+      <Pharmacy>
+        <Cream>Voltaren</Cream>
+        <Syrup>syrups</Syrup>
+        <Bandaid>band aid packs</Bandaid>
+        <Aspirin>Aspirin packs</Aspirin>
+        <Betadin>Betadine</Betadin>
+        <Sunscreen>sun screens</Sunscreen>
+        <Benuron>Ben-u-ron packs</Benuron>
+        <Brufen>Brufen packs</Brufen>
+      </Pharmacy>
+      <PostOffice>
+        <Stamp>Stamps</Stamp>
+        <Letter>Envelopes</Letter>
+        <Package>Packages</Package>
+        <ChildrenBook>Children Books</ChildrenBook>
+        <AdultBook>Adult Books</AdultBook>
+        <Postcard>Postcards</Postcard>
+        <CDsBox>CD's Packs</CDsBox>
+        <Lottery>Lottery tickets</Lottery>
+      </PostOffice>
+    </PluralOfItems>
+  </English>
+  <Portuguese>
+    <EnterRoom>
+      <SuperMarket>
+        Bem vindo(a) ao Supermercado
+        <Milk>pacote de leite</Milk>
+        <Juice>sumo</Juice>
+        <Bread>pão</Bread>
+        <Water>água</Water>
+        <Apple>maçã</Apple>
+        <Orange>laranja</Orange>
+        <Nutella>Nutella</Nutella>
+        <Shampoo>shampô</Shampoo>
+        <Coffee>pacote de café</Coffee>
+        <Sauce>polpa de tomate</Sauce>
+        <Yogurt>iogurte</Yogurt>
+        <Butter>manteiga</Butter>
+        <Kellogs>caixa de cereais</Kellogs>
+        <Coke>Coca-Cola</Coke>
+        <Pasta>pacote de macarrão</Pasta>
+        <OliveOil>garrafa de azeite</OliveOil>
+        <Chocapic>caixa de cereais de chocolate</Chocapic>
+      </SuperMarket>
+      <Pharmacy>
+        Bem vindo(a) à Farmácia
+        <Cream>Voltaren</Cream>
+        <Syrup>xarope</Syrup>
+        <Bandaid>caixa de pensos Rápidos</Bandaid>
+        <Asprin>caixa de Aspirina</Asprin>
+        <Betadin>Betadine</Betadin>
+        <Sunscreen>protetor solar</Sunscreen>
+        <Benuron>caixa de Ben-u-ron</Benuron>
+        <Brufen>Brufen</Brufen>
+      </Pharmacy>
+      <PostOffice>
+        Bem vindo(a) aos Correios
+        <Stamp>Selo</Stamp>
+        <Letter>Envelope</Letter>
+        <Package>Encomenda</Package>
+        <ChildrenBook>Livro para Crianças</ChildrenBook>
+        <AdultBook>Livro para Adultos</AdultBook>
+        <Postcard>Postal</Postcard>
+        <CDsBox>Caixa de CD's</CDsBox>
+        <Lottery>Lotaria</Lottery>
+      </PostOffice>
+      <Bank>
+        Bem vindo(a) ao Banco
+        <WithDraw>Levantamentos</WithDraw>
+        <Consults>Consultas</Consults>
+        <Payments>
+          <PaymentsText>Pagamentos</PaymentsText>
+          <Electricity>Eletricidade</Electricity>
+          <Water>Água</Water>
+          <Telephone>Telefone</Telephone>
+        </Payments>
+        <Services>Serviços</Services>
+        <Back>Voltar</Back>
+        <Quit>Sair</Quit>
+      </Bank>
+      <Home>
+        Bem vindo(a) a casa
+        <Category>Selecione as imagens que pertencem à categoria indicada</Category>
+      </Home>
+      <FashionStore>
+        Bem vindo(a) à Loja de Roupa
+        <Sequence>Indique a ordem pela qual os passos devem ser executados</Sequence>
+      </FashionStore>
+      <Kiosk>
+        Bem vindo(a) ao quiosque das revistas
+      </Kiosk>
+      <Park>
+        Bem vindo(a) ao Parque
+        <Pairs>Encontre imagens iguais</Pairs>
+      </Park>
+      <Home>
+        Pressione a tecla verde para entrar em casa
+        <Keyboard>Pressione Space para entrar em casa </Keyboard>
+      </Home>
+      <FashionStore>
+        Pressione a tecla verde para entrar na Loja de Roupa
+        <Keyboard>Pressione Space para entrar na Loja de Roupa</Keyboard>
+      </FashionStore>
+    </EnterRoom>
+    <Objective>
+      <WellDoneText>Muito Bem. Conseguiu ganhar +10 pontos</WellDoneText>
+      <Score>Pontos: </Score>
+      <LevelUp>Muito Bem. Nível concluído!</LevelUp>
+    </Objective>
+    <PluralOfItems>
+      <SuperMarket>
+        <Milk>pacotes de leite</Milk>
+        <Juice>sumos</Juice>
+        <Bread>pães</Bread>
+        <Agua>águas</Agua>
+        <Apple>maçãs</Apple>
+        <Orange>laranjas</Orange>
+        <Nutella>Nutellas</Nutella>
+        <Shampoo>shampôs</Shampoo>
+        <Coffee>pacotes de café</Coffee>
+        <Sauce>polpas de tomate</Sauce>
+        <Yogurt>iogurtes</Yogurt>
+        <Butter>embalagens de manteiga</Butter>
+        <Kellogs>caixas de cereais</Kellogs>
+        <Coke>latas de Coca-Cola</Coke>
+        <Pasta>embalagens de macarrão</Pasta>
+        <OliveOil>garrafas de azeite</OliveOil>
+        <Chocapic>caixas de cereais de chocolate</Chocapic>
+      </SuperMarket>
+      <Pharmacy>
+        <Cream>Voltaren</Cream>
+        <Syrup>xaropes</Syrup>
+        <Bandaid>caixas de pensos rápidos</Bandaid>
+        <Asprin>Aspirinas</Asprin>
+        <Betadin>Betadines</Betadin>
+        <Sunscreen>protetores solares</Sunscreen>
+        <Benuron>Ben-u-ron</Benuron>
+        <Brufen>Brufen</Brufen>
+      </Pharmacy>
+      <PostOffice>
+        <Stamp>Selos</Stamp>
+        <Letter>Envelopes</Letter>
+        <Package>Encomendas</Package>
+        <ChildrenBook>Livros para Crianças</ChildrenBook>
+        <AdultBook>Livros para Adultos</AdultBook>
+        <Postcard>Postais</Postcard>
+        <CDsBox>Caixas de CD's</CDsBox>
+        <Lottery>Lotarias</Lottery>
+      </PostOffice>
+    </PluralOfItems>
+  </Portuguese>
+
+</Dialogues>

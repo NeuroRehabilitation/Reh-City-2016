@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Assets.scripts.Models.ActionSequencing">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQACAQAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\scripts\Auto-Dynamic Difficulty\Models\ActionSequencing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.scripts.Models.Association">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAQAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\scripts\Auto-Dynamic Difficulty\Models\Association.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.scripts.Models.Cancellation">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAACAQAAgAAAAAAAAAAAAAgCAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Auto-Dynamic Difficulty\Models\Cancellation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.scripts.Models.Categorization">
+    <Position X="18.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAQAAACAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Auto-Dynamic Difficulty\Models\Categorization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.scripts.Models.Context">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAQAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\scripts\Auto-Dynamic Difficulty\Models\Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.scripts.Models.ImagePairs">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAQAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\scripts\Auto-Dynamic Difficulty\Models\ImagePairs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.scripts.Models.Mazes">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAACAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Auto-Dynamic Difficulty\Models\Mazes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.scripts.Models.MemoryOfStories">
+    <Position X="20.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQACAQAAAAACAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\scripts\Auto-Dynamic Difficulty\Models\MemoryOfStories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.scripts.Models.Model">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACBAAAQAAAAUAAAAAAAAAAAAACgAAAAAAAAA=</HashCode>
+      <FileName>Assets\scripts\Auto-Dynamic Difficulty\Models\Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.scripts.Models.NumericSequencing">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAIAAAAAAAAAAACAQAAAAAAAAAAAAAAAAAgAAACAA=</HashCode>
+      <FileName>Assets\scripts\Auto-Dynamic Difficulty\Models\NumericSequencing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.scripts.Models.ProblemSolving">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAACAQAAAAAAEAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\scripts\Auto-Dynamic Difficulty\Models\ProblemSolving.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

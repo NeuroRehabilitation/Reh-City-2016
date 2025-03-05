@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <CalibXmin>0</CalibXmin>
+  <CalibXmax>0</CalibXmax>
+  <CalibYmin>0</CalibYmin>
+  <CalibYmax>0</CalibYmax>
+  <Speed>4.0</Speed>
+  <Sensitivity>0.5</Sensitivity>
+  <Acceleration />
+  <TopThreshold>0</TopThreshold>
+  <BottomThreshold>-0.5</BottomThreshold>
+  <SidesThreshold>0.2</SidesThreshold>
+  <KeepCursor>False</KeepCursor>
+  <MoveAndRotate>True</MoveAndRotate>
+  <NavigationTime>60</NavigationTime>
+  <SelectionTime>6</SelectionTime>
+  <Hand>Right</Hand>
+  <Attention>5</Attention>
+  <Memory>5.5</Memory>
+  <ExecFunctions>5.5</ExecFunctions>
+  <Language>6.5</Language>
+  <Difficulty>5.5</Difficulty>
+  <ActionSeq>True</ActionSeq>
+  <Cancellation>False</Cancellation>
+  <CatPer>False</CatPer>
+  <Pairs>False</Pairs>
+  <MemoryStories>False</MemoryStories>
+  <NumSeq>False</NumSeq>
+  <ProbSolv>False</ProbSolv>
+  <ActionSeqPerform>0</ActionSeqPerform>
+  <CancellationPerform>0</CancellationPerform>
+  <CatPerform>0</CatPerform>
+  <PairsPerform>0</PairsPerform>
+  <MazesPerform>100</MazesPerform>
+  <MemoryStoriesPerform>0</MemoryStoriesPerform>
+  <NumSeqPerform>0</NumSeqPerform>
+  <ProbSolvPerform>0</ProbSolvPerform>
+  <LastLocationPerform>100</LastLocationPerform>
+  <DomainsDivisor>2</DomainsDivisor>
+  <NumberOfLocations>1</NumberOfLocations>
+  <Performance>50</Performance>
+</Config>

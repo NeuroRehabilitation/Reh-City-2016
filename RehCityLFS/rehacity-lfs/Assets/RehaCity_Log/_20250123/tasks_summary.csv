@@ -1,0 +1,4 @@
+Tasks_Set,Task_Location,ObjectivePathNodes,PlayerPathNodes,Correct,Incorrect,CorrectOutOfTime,IncorrectOutOfTime,Performance,TaskTime,ExceededTime
+1,Home,5,5,0,0,0,0,100,30.77667,0
+1,Rehatask-Home,0,0,0,0,0,0,0,41.2528,-133.7472
+1,FashionStore,4,6,0,0,0,0,50,30.84724,0
